@@ -17,4 +17,8 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 </p>
 
 ### References
-[Bare Metal C++](https://alex-robenko.gitbook.io/bare_metal_cpp/)
+- [Modern C++ in Embedded systems - YouTube](https://www.youtube.com/watch?v=1l2g2dAobXA)
+- [Bare Metal C++ - Online Book](https://alex-robenko.gitbook.io/bare_metal_cpp/)
+- [Compiler Explorer - Unbelievable Website](https://godbolt.org/)
+- [C++ Standards Support in GCC - Must Know](https://gcc.gnu.org/projects/cxx-status.html)
+- [PlatformIO](https://platformio.org/)
