@@ -17,4 +17,4 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 </p>
 
 ### References
-![Bare Metal C++](https://alex-robenko.gitbook.io/bare_metal_cpp/)
+[Bare Metal C++](https://alex-robenko.gitbook.io/bare_metal_cpp/)
