@@ -13,7 +13,7 @@ Please keep in mind that the memory size is quite small for the embedded firmwar
 </p>
 
 <p>
-The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++17 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (and maybe later SPI). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.  
+The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++17 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (and maybe later SPI). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent. Finally, I use for testing embedded systems with a linux computer with an old computer. The iMac which is old and neglected where it uses an up-to-date OS, the Debian Unbuntu 20.04 version and It Works!
 </p>
 
 ### References
@@ -22,3 +22,4 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - [Compiler Explorer - Unbelievable Website](https://godbolt.org/)
 - [C++ Standards Support in GCC - Must Know](https://gcc.gnu.org/projects/cxx-status.html)
 - [PlatformIO](https://platformio.org/)
+- [Ubuntu OS](https://ubuntu.com/)
