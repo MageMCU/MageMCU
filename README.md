@@ -1,7 +1,11 @@
 ## About MageMCU - Under Construction - ETC - Who knows!?
 
+<p align="center">
+### Hello World
+</p>
+
 <p>
-Hello World! My name is Jesse. I've been fascinated by the magic of modern tech. There was a time when I was living in a world when slide rules with its 3 significant digits were the norm. Today, there are millions and millions of hidden miniature computers everywhere even on our own person. The magic or the so-called wise-device, the MageMCU, (a name by the way chosen for this topic) is not a person but a computing device. The acronym MCU is a Micro Controller Unit. My interest is in the AVR which is a family of microcontrollers developed by Atmel, acquired by Microchip. These devices find many applications as embedded systems. One might imagine the feeling of what the word embedded might invoke and most likely would be correct in their assumption. They are modernly common in hobbyist and educational embedded applications, popularized by their inclusion in many of the Arduino line of open hardware development boards. By the turn of the century, Atmel had shipped 500 million AVR flash microcontrollers.
+My name is Jesse. I've been fascinated by the magic of modern tech. There was a time when I was living in a world when slide rules with its 3 significant digits were the norm. Today, there are millions and millions of hidden miniature computers everywhere even on our own person. The magic or the so-called wise-device, the MageMCU, (a name by the way chosen for this topic) is not a person but a computing device. The acronym MCU is a Micro Controller Unit. My interest is in the AVR which is a family of microcontrollers developed by Atmel, acquired by Microchip. These devices find many applications as embedded systems. One might imagine the feeling of what the word embedded might invoke and most likely would be correct in their assumption. They are modernly common in hobbyist and educational embedded applications, popularized by their inclusion in many of the Arduino line of open hardware development boards. By the turn of the century, Atmel had shipped 500 million AVR flash microcontrollers.
 </p>
 
 <p>
