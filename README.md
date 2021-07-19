@@ -14,8 +14,7 @@ Please keep in mind that the memory size is quite small for the embedded firmwar
 
 <p>
 The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++17 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (and maybe later SPI). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.  
-</p>>
+</p>
 
 ### References
-
-<p> pending</p>
+![Bare Metal C++](https://alex-robenko.gitbook.io/bare_metal_cpp/)
