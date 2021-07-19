@@ -8,6 +8,10 @@ Hello World! My name is Jesse. I've been fascinated by the magic of modern tech.
 I am presently cleaning out (updating) the file cabinet full of old articles on algorithms for a variety of subjects in robotics, a part-time hobby. Although I am not an engineer, I did put together a rudimentary robot to study the interfacing and programming of MCUs. The reasoning behind the repository publication is not to show off my ignorance but to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp. Therefore, it would be nice to hear from others on improving the code. This way when updating the articles I won't be wondering if whether I've mis-written another bug.
 </p>
 
+<p align="center">
+	<img src="https://github.com/MageMCU/MCU-Algorithms/blob/assets/arduino_uno_atmega328p.jpg" width="400" />
+</p>
+
 <p>
 Please keep in mind that the memory size is quite small for the embedded firmware. The MCU used is the ATmega328P on a protoboard (breadboard). Actually any MCU will do but as many bitbangers may well know, this particular 8-bit device is quite popular. The AVR architecture has two main memory spaces, the Program Memory space (32 kilobytes flash memory), the Data Memory space (2 kilobytes internal SRAM) and besides the main memory spaces, there is another, the EEPROM Memory for data storage (1 kilobytes). Atmel's datasheet on this chip had 450 pages but today, Microchip narrowed it down to 294.
 </p>
