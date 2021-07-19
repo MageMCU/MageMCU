@@ -1,7 +1,7 @@
 ## About MageMCU - Under Construction - ETC - Who knows!?
 
 <p align="center">
-### Hello World
+	<strong>--- Hello World ---</strong>
 </p>
 
 <p>
