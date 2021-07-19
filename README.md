@@ -1,16 +1,21 @@
-### Hi there 👋
+## About MageMCU - Under Construction - ETC - Who knows!?
 
-<!--
-**MageMCU/MageMCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Hello World! My name is Jesse. I've been fasinated by the magic of modern tech. There was a time when I was living in a world when slide rules with its 3 significant digits were the norm. Today, there are millions and millions of hidden miniture computers everywhere even on our own person. The magic or the so-called wise-device, the MageMCU, (a name by the way chosen for this topic) is not a person but a computing device. The acronym MCU is a Micro Controller Unit. My interest is in the AVR which is a family of microcontrollers developed by Atmel, acquired by Microchip. These devices find many applications as embedded systems. One might imagine the feeling of what the word embedded might invoke and most likely would be correct in their assumption. They are modernly common in hobbyist and educational embedded applications, popularized by their inclusion in many of the Arduino line of open hardware development boards. By the turn of the century, Atmel had shipped 500 million AVR flash microcontrollers.
+</p>
 
-Here are some ideas to get you started:
+<p>
+I am presently cleaning out (updating) the file cabinet full of old articles on algorithms for a variety of subjects in robotics, a part-time hobby. Although I am not an engineer, I did put together a rudimentary robot to study the interfacing and programming of MCUs. The reasoning behind the repository publication is not to show off my ignorance but to further my studies in the C++ programming language to include C++ templates along with C++ metaprogramming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unforunately, many like myself where the modern C++ abstraction is difficult to grasp. Therefore, it would be nice to hear from others on improving the code. This way when updating the articles I won't be wondering if whether I've mis-written another bug. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Please keep in mind that the memory size is quite small for the embedded firmware. The MCU used is the ATmega328P on a protoboard (breadboard). Actually any MCU will do but as many may well know, this particular 8-bit device is quite popular. The AVR architecture has two main memory spaces, the Program Memory space (32 kilobytes flash memory), the Data Memory space (2 kilobytes internal SRAM) and besides the main memory spaces, these is another, the EEPROM Memory for data storage (1 kilobytes). Atmel's datasheet on this chip had 450 pages but today, Microchip narrowed down to 294. 
+</p>
+
+<p>
+The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++17 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device.  The communication types are presently I2C (and maybe later SPI). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent. 
+</p>>
+
+### References
+
+<p> pending</p>
