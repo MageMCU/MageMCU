@@ -25,9 +25,22 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 </p>
 
 ### References
+
 - [Modern C++ in Embedded systems - YouTube](https://www.youtube.com/watch?v=1l2g2dAobXA)
 - [Bare Metal C++ - Online Book](https://alex-robenko.gitbook.io/bare_metal_cpp/)
 - [Compiler Explorer - Unbelievable Website](https://godbolt.org/)
 - [C++ Standards Support in GCC - Must Know](https://gcc.gnu.org/projects/cxx-status.html)
 - [PlatformIO](https://platformio.org/)
 - [Ubuntu OS](https://ubuntu.com/)
+
+<hr/>
+
+<p>Something new...</p>
+
+- [New GitHub Pages domain: github.io](https://github.blog/2013-04-05-new-github-pages-domain-github-io/)
+
+<p>One of the sources used for this repository...</p>
+
+- [C++ Templates: The Complete Guide (2nd Ed. 2917) pdf-file](https://joshnatis.github.io/readings/comp/c++_books/David%20Vandevoorde,%20Nicolai%20M.%20Josuttis,%20Douglas%20Gregor%20-%20C++%20Templates_%20The%20Complete%20Guide-Addison-Wesley%20(2017).pdf)
+
+
