@@ -27,7 +27,6 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 ### Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
 - [Writing the Laboratory Notebook (US Department of Education) - Oldy but Goody](https://files.eric.ed.gov/fulltext/ED344734.pdf)
-- [Understanding Students’ Perceptions On The Utility of Engineering Notebooks](https://files.eric.ed.gov/fulltext/EJ1076123.pd)
 
 There are not many lab notebook examples to reference, so if anyone has a link, please pass it my way.
 
