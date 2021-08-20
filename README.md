@@ -28,5 +28,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 - [Writing the Laboratory Notebook (US Department of Education) - Oldy but Goody](https://files.eric.ed.gov/fulltext/ED344734.pdf)
 
-There are not many lab notebook examples to reference, so if anyone has a link, please pass it my way.
+There are not many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
+
+- [ERIC - Institute of Education Sciences - Lab Notebook](https://eric.ed.gov/?q=lab+notebook)
 
