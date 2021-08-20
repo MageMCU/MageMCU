@@ -25,4 +25,6 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - [Bare Metal C++ - Online Book](https://alex-robenko.gitbook.io/bare_metal_cpp/)
 - [Compiler Explorer - Unbelievable Website](https://godbolt.org/)
 - [C++ Standards Support in GCC - Must Know](https://gcc.gnu.org/projects/cxx-status.html)
+- [Writing the Laboratory Notebook (US Department of Education) - Oldy but Goody](https://files.eric.ed.gov/fulltext/ED344734.pdf)
+- [Free Books to Learn C++ (with advertisements)](https://www.linuxlinks.com/excellent-free-books-learn-c-plus-plus/)
 
