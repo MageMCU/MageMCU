@@ -19,6 +19,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - [Modern C++ in Embedded systems - (YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
 - [Bare Metal C++ - (Online Book)](https://alex-robenko.gitbook.io/bare_metal_cpp/)
 - [Compiler Explorer - (Website)](https://godbolt.org/)
+- [An incomplete list of C++ compilers - (Stroustrup C++ Website)](https://stroustrup.com/compilers.html)
 - [C++ Standards Support in GCC - (Website with Technical Specifications Links)](https://gcc.gnu.org/projects/cxx-status.html)
   - This is the website to find the difference between the standards & the GCC versions.
 - [Free Books to Learn C++ (Website with advertisements)](https://www.linuxlinks.com/excellent-free-books-learn-c-plus-plus/)
@@ -36,4 +37,9 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
      - There are **not** many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
 
 - [ERIC - Institute of Education Sciences - (Lab Notebook Links)](https://eric.ed.gov/?q=lab+notebook)
+
+### Recommended Beginners C++ Textbook
+
+- [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
+
 
