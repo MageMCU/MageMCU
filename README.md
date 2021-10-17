@@ -39,6 +39,12 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
    - [Scientific Notebook Company - (An example on lab notebooks)](https://snco.com)
 
+### DIY Beginners Desktop Lab
+
+- [Make a One Desk Electronics Lab)](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
+- [A DIY electronics lab for beginners)](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
+- Please Read the MageMCU Disclaimer
+
 ### Recommended Beginners C++ Textbook
 
 - [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
