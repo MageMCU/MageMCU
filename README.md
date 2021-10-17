@@ -44,5 +44,6 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 ### Recommended Electronics Textbook
 
 - [Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
-
+- [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
+- Laboratory Notbooks with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
 
