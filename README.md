@@ -36,8 +36,6 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
      - I had printed this PDF file out into a binder to be used as a quick reference.
      - There are **not** many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
      - [Source: ERIC - Institute of Education Sciences](https://ed.gov)
-
-- [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
 - Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
    - [Scientific Notebook Company - (An example on lab notebooks)](https://snco.com)
 
