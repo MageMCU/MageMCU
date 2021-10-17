@@ -35,11 +35,14 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - [Writing the Laboratory Notebook (US Department of Education) - (PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
      - I had printed this PDF file out into a binder to be used as a quick reference.
      - There are **not** many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
-
-- [ERIC - Institute of Education Sciences - (Lab Notebook Links)](https://eric.ed.gov/?q=lab+notebook)
+     - [Source: ERIC - Institute of Education Sciences](https://ed.gov)
 
 ### Recommended Beginners C++ Textbook
 
 - [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
+
+### Recommended Electronics Textbook
+
+- [Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
 
 
