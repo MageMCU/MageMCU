@@ -44,6 +44,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - [Make a One Desk Electronics Lab)](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
 - [A DIY electronics lab for beginners)](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
 - Please Read the MageMCU Disclaimer
+- Safety Data Sheets: where to find MSDS and SDS on the internet... Safety Comes First.
 
 ### Recommended Beginners C++ Textbook
 
