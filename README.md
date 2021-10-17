@@ -37,6 +37,10 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
      - There are **not** many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
      - [Source: ERIC - Institute of Education Sciences](https://ed.gov)
 
+- [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
+- Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
+   - [Scientific Notebook Company - (An example on lab notebooks)](https://snco.com)
+
 ### Recommended Beginners C++ Textbook
 
 - [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
@@ -44,6 +48,10 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 ### Recommended Electronics Textbook
 
 - [Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
+- [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
+
+### Laboratory 
+
 - [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
 - Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
 
