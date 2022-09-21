@@ -32,6 +32,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 ### Git and GitHub by using the VS-Code
 
+- [Introduction to Github and Git with Ubuntu (YouTube 8 minutes)](https://www.youtube.com/watch?v=_kAV059yZ_s)
 - [Git and GitHub for Beginners - Crash Course by freeCodeCamp.org (YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ### Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
