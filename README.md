@@ -30,6 +30,10 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 - [VS Code - Setup Makefile & Other Extensions (YouTube 10 minutes)](https://www.youtube.com/watch?v=whQQF4kVjPY)
 
+### Git and GitHub by using the VS-Code
+
+- [Git and GitHub for Beginners - Crash Course by freeCodeCamp.org (YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
 ### Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
 - [Writing the Laboratory Notebook (US Department of Education) - (PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
