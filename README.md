@@ -9,7 +9,7 @@ I'm Jesse. I've been fascinated by the magic of modern tech. My interest is in t
 I did put together a rudimentary robot to study the interfacing and programming of MCUs. The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp. Therefore, it would be nice to hear from others on improving the code. 
 
 <p align="center">
-	<img src="https://github.com/MageMCU/MCU-Algorithms/blob/assets/arduino_uno_atmega328p.jpg" width="400" />
+	<img src="![ArduinoUnoGPIO](https://user-images.githubusercontent.com/87388066/192183593-076dc5a1-4fb2-4893-b88e-f223ffb8636a.jpg)" width="400" />
 </p>
 
 The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++11 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (SPI, IoT, RF Devices with emphasize RF Serial Communications Interface, Digital Modulation Shift-Keying). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.
