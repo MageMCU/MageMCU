@@ -26,7 +26,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 ## Visual Studio Code - Quick Tutorial
 
-- [VS Code - Setup Makefile & Other Extensions (YouTube 10 minutes)](https://www.youtube.com/watch?v=whQQF4kVjPY)
+- VS Code - Setup Makefile & Other Extensions [(YouTube 10 minutes)](https://www.youtube.com/watch?v=whQQF4kVjPY)
 
 ## Git and GitHub by using the VS-Code
 
