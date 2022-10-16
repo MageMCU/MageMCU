@@ -1,4 +1,5 @@
-### About MageMCU
+<hr>
+## About MageMCU
 
 <p align="center">
 	<strong>--- Blinking LED ---</strong>
