@@ -33,7 +33,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 ### Git and GitHub by using the VS-Code
 
 - [Introduction to Github and Git with Ubuntu (YouTube 8 minutes)](https://www.youtube.com/watch?v=_kAV059yZ_s)
-  - Although it's a short video pay attention to the termiinal command 'git config'...
+  - Although it's a short video pay attention to the terminal command 'git config'...
 - [Git and GitHub for Beginners - Crash Course by freeCodeCamp.org (YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
   - Unlike the first video, it does not cover 'git config'..., but it covers a broad view.
 
