@@ -1,6 +1,3 @@
-
-<hr>
-
 ## About MageMCU
 
 <p align="center">
@@ -17,8 +14,6 @@ I did put together a rudimentary robot to study the interfacing and programming 
 
 The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++11 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (SPI, IoT, RF Devices with emphasize RF Serial Communications Interface, Digital Modulation Shift-Keying). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.
 
-<hr>
-
 ## References
 
 - [Modern C++ in Embedded systems - (YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
@@ -29,13 +24,9 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
   - This is the website to find the difference between the standards & the GCC versions.
 - [Free Books to Learn C++ (Website with advertisements)](https://www.linuxlinks.com/excellent-free-books-learn-c-plus-plus/)
 
-<hr>
-
 ## Visual Studio Code - Quick Tutorial
 
 - [VS Code - Setup Makefile & Other Extensions (YouTube 10 minutes)](https://www.youtube.com/watch?v=whQQF4kVjPY)
-
-<hr>
 
 ## Git and GitHub by using the VS-Code
 
@@ -43,8 +34,6 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
   - Although it's a short video pay attention to the terminal command 'git config'...
 - [Git and GitHub for Beginners - Crash Course by freeCodeCamp.org (YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
   - Unlike the first video, it does not cover 'git config'..., but it covers a broad view.
-
-<hr>
 
 ### Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
@@ -55,8 +44,6 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
    - [Scientific Notebook Company - (An example on lab notebooks)](https://snco.com)
 
-<hr>
-
 ## DIY Beginners Desktop Lab
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
@@ -65,20 +52,14 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - Safety Data Sheets, where to find MSDS and SDS on the internet... Safety Comes First.
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
 
-<hr>
-
 ## Recommended Beginners C++ Textbook
 
 - [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
-
-<hr>
 
 ## Recommended Electronics Textbook
 
 - [Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
 - [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
-
-<hr>
 
 ## Disclaimer and Terms
 
