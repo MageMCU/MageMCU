@@ -16,13 +16,13 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 ## References
 
-- [Modern C++ in Embedded systems - (YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
-- [Bare Metal C++ - (Online Book)](https://alex-robenko.gitbook.io/bare_metal_cpp/)
-- [Compiler Explorer - (Website)](https://godbolt.org/)
-- [An incomplete list of C++ compilers - (Stroustrup C++ Website)](https://stroustrup.com/compilers.html)
-- [C++ Standards Support in GCC - (Website with Technical Specifications Links)](https://gcc.gnu.org/projects/cxx-status.html)
+- Modern C++ in Embedded systems - [(YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
+- Bare Metal C++ - [(Online Book)](https://alex-robenko.gitbook.io/bare_metal_cpp/)
+- Compiler Explorer - [(Website)](https://godbolt.org/)
+- An incomplete list of C++ compilers - [(Stroustrup C++ Website)](https://stroustrup.com/compilers.html)
+- C++ Standards Support in GCC - [(Website with Technical Specifications Links)](https://gcc.gnu.org/projects/cxx-status.html)
   - This is the website to find the difference between the standards & the GCC versions.
-- [Free Books to Learn C++ (Website with advertisements)](https://www.linuxlinks.com/excellent-free-books-learn-c-plus-plus/)
+- Free Books to Learn C++ [(Website with advertisements)](https://www.linuxlinks.com/excellent-free-books-learn-c-plus-plus/)
 
 ## Visual Studio Code - Quick Tutorial
 
@@ -30,26 +30,26 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 ## Git and GitHub by using the VS-Code
 
-- [Introduction to Github and Git with Ubuntu (YouTube 8 minutes)](https://www.youtube.com/watch?v=_kAV059yZ_s)
+- Introduction to Github and Git with Ubuntu [(YouTube 8 minutes)](https://www.youtube.com/watch?v=_kAV059yZ_s)
   - Although it's a short video pay attention to the terminal command 'git config'...
-- [Git and GitHub for Beginners - Crash Course by freeCodeCamp.org (YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- Git and GitHub for Beginners - Crash Course by freeCodeCamp.org [(YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
   - Unlike the first video, it does not cover 'git config'..., but it covers a broad view.
 
 ### Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
-- [Writing the Laboratory Notebook (US Department of Education) - (PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
+- Writing the Laboratory Notebook (US Department of Education) - [(PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
      - I had printed this PDF file out into a binder to be used as a quick reference.
      - There are **not** many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
-     - [Source: ERIC - Institute of Education Sciences](https://ed.gov)
+     - ERIC - Institute of Education Sciences [Source](https://ed.gov) 
 - Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
-   - [Scientific Notebook Company - (An example on lab notebooks)](https://snco.com)
+   - Scientific Notebook Company - [(An example on lab notebooks online)](https://snco.com)
 
 ## DIY Beginners Desktop Lab
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
 - [A DIY electronics lab for beginners](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
 - Please Read the MageMCU Disclaimer
-- Safety Data Sheets, where to find MSDS and SDS on the internet... Safety Comes First.
+- **Safety Data Sheets**, where to find **MSDS** and **SDS** on the internet... **Safety Comes First**.
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
 
 ## Recommended Beginners C++ Textbook
