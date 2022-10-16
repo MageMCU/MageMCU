@@ -54,7 +54,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
-- Parents and Teachers On Safety Transparency - I have been searching for a contractual agreement example for the school, teacher and parent when it comes to the student's safety [Safety Instructions PDF](https://cs.wmich.edu/gupta/teaching/cs5950/fall2011/safety%20instructions%20from%20International%20University%20Bremen.pdf)
+- Parents and Teachers On Safety Transparency - I have been searching for a contractual agreement example for the school, teacher and parent when it comes to the student's safety [Safety Instructions PDF](https://cs.wmich.edu/gupta/teaching/cs5950/fall2011/safety%20instructions%20from%20International%20University%20Bremen.pdf). Although this is a very simple example, this agreement lacks a legal disclaimer.
 
 ## Recommended Beginners C++ Textbook
 
