@@ -56,9 +56,9 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 - [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
 
-	- [Author: Bjarne Stroustrup's homepage](https://www.stroustrup.com/index.html)
-	- [Source: Programming -- Principles and Practice Using C++](https://www.stroustrup.com/programming.html)
-	- [Support: Programming -- Principles and Practice Using C++](https://www.stroustrup.com/programming_support.html)
+	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
+	- [Source:](https://www.stroustrup.com/programming.html) Programming -- Principles and Practice Using C++
+	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
 
 ## Recommended Electronics Textbook
 
