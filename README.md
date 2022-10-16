@@ -1,5 +1,5 @@
 
-hr>
+<hr>
 
 ## About MageMCU
 
