@@ -1,4 +1,4 @@
-## About MageMCU
+### About MageMCU
 
 <p align="center">
 	<strong>--- Blinking LED ---</strong>
@@ -14,7 +14,7 @@ I did put together a rudimentary robot to study the interfacing and programming 
 
 The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++11 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (SPI, IoT, RF Devices with emphasize RF Serial Communications Interface, Digital Modulation Shift-Keying). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.
 
-### References
+## References
 
 - [Modern C++ in Embedded systems - (YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
 - [Bare Metal C++ - (Online Book)](https://alex-robenko.gitbook.io/bare_metal_cpp/)
@@ -26,11 +26,11 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 <hr>
 
-### Visual Studio Code - Quick Tutorial
+## Visual Studio Code - Quick Tutorial
 
 - [VS Code - Setup Makefile & Other Extensions (YouTube 10 minutes)](https://www.youtube.com/watch?v=whQQF4kVjPY)
 
-### Git and GitHub by using the VS-Code
+## Git and GitHub by using the VS-Code
 
 - [Introduction to Github and Git with Ubuntu (YouTube 8 minutes)](https://www.youtube.com/watch?v=_kAV059yZ_s)
   - Although it's a short video pay attention to the terminal command 'git config'...
@@ -46,7 +46,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
    - [Scientific Notebook Company - (An example on lab notebooks)](https://snco.com)
 
-### DIY Beginners Desktop Lab
+## DIY Beginners Desktop Lab
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
 - [A DIY electronics lab for beginners](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
@@ -54,11 +54,11 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - Safety Data Sheets, where to find MSDS and SDS on the internet... Safety Comes First.
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
 
-### Recommended Beginners C++ Textbook
+## Recommended Beginners C++ Textbook
 
 - [Programming: Principles and Practice Using C++, 2nd Edition - (Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
 
-### Recommended Electronics Textbook
+## Recommended Electronics Textbook
 
 - [Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
 - [Laboratory Manual for Introductory Circuit Analysis, 13th edition - (Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
