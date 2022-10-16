@@ -71,6 +71,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
 	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
 	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
+		- The source code has an excellent example in Chapter-24 on his ***matrix.h*** file.
 
 ## Recommended Electronics Textbook
 
