@@ -63,6 +63,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 		- Legal Disclaimer
 		- Witness Name & Signature
 		- Sign and Date
+	- The motivation behind this type of an agreement, there is not enough all-around laboratories in our public schools for vocational readiness.
 
 ## Recommended Beginners C++ Textbook
 
