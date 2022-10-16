@@ -35,7 +35,7 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 - Git and GitHub for Beginners - Crash Course by freeCodeCamp.org [(YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
   - Unlike the first video, it does not cover 'git config'..., but it covers a broad view.
 
-### Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
+## Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
 - Writing the Laboratory Notebook (US Department of Education) - [(PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
      - I had printed this PDF file out into a binder to be used as a quick reference.
