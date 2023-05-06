@@ -1,4 +1,4 @@
-## About MageMCU
+# About MageMCU
 
 <p align="center">
 	<strong>--- Blinking LED ---</strong>
@@ -14,7 +14,25 @@ I did put together a rudimentary robot to study the interfacing and programming 
 
 The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++11 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (SPI, IoT, RF Devices with emphasize RF Serial Communications Interface, Digital Modulation Shift-Keying). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.
 
-## References
+# IC Components (Sensors) 
+
+Embedded Programming levels use the Assembly, C amd C++ languages with the GNU C compiler (gcc) and assembler (as). 
+
+Who is the sole responsible body for the hardware (IC Components) quality control and for the electronics software development? 
+
+The manufacturer is responsible for the quality control of its own IC components including its software development using any one of the embedded programming language levels.
+
+Assembler Language GNU C compiled firmware is compatible with the higher C languages which interacts directly with the IC hardware. The C language may be used instead or along with the assembly firmware of the IC component. The C++ language is used at an abstract level such as smart control systems using artificual intelligence. All programming levels work together where the manufacturer uses as a minimum standard to specify all levels of programming into their IC components in their datasheets (or Application Notes). No single enterprise should have a monopoly on any programming that might exclude the GNU C Compiler on their IC component.
+
+Embedded systems interact directly with the real world like magnetometers to process sensor data and the results are used to interact with the real world by using actuators. The textbook by Stuart J. Russel and Peter Norvig called Artificial Intelligence, A Modern Approach, shows a figure of an intelligent agent interacting with the environment through sensors and actuactors. Embedded programmers should place a large image of the figure above their computer especially the one with the BIG question mark.
+
+Quality Control and Assurance is the responsibilty of everyone. The manufacture cannot be the sole individual responsible for SOME BAD APPLES. The IC components are mounted on boards if not by the manufacturer then by a third party PCB manufacturer. The client or customer should design a qualitative quantitative quality control test whether such boards are applicable under control methods on the sensor data. Does the board and IC component function as per the manufacture's contract...
+
+I have a box called misty where I toss bad apples...
+
+# References
+
+## Quick Start
 
 - Modern C++ in Embedded systems - [(YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
 - Bare Metal C++ - [(Online Book)](https://alex-robenko.gitbook.io/bare_metal_cpp/)
@@ -78,6 +96,15 @@ The bare metal programming is done on the VS Code using the PlatformIO core but 
 
 - Introductory Circuit Analysis, 13th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
 - Laboratory Manual for Introductory Circuit Analysis, 13th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
+
+## Libraries
+
+- Arduino - [(Library)](https://www.arduino.cc/reference/en/libraries/)
+- PlatformIO - [(Registry)](https://registry.platformio.org/)
+
+## Tentative Disclaimer
+
+- This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 
 ## Disclaimer and Terms
 
