@@ -21,6 +21,8 @@ At the heart of the **UNO** is the Atmega328P-PU (atmega328p) MCU. The 28-pin DI
 - [From Arduino to a Microcontroller on a Breadboard](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard/)
 - See datasheet...
 
+Note that Arduino as ISP for Arduino Bootloaders below is better than the one described here...
+
 ## ATmega16U2 
 
 The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
