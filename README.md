@@ -51,8 +51,14 @@ Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C libra
 
 ## Programming Language
 
-The procedural **C** prograomming language is used by beginners and then move to object-oriented programming (OOP), the C++ programming language. 
+The procedural **C** prograomming language is used by beginners and then move to object-oriented programming (OOP), the **C++** programming language. 
 
+- Programming: Principles and Practice Using C++, 2nd Edition - [(Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
+
+	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
+	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
+	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
+ 
 The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
 
 Second to None is the  [Python Programming Language](https://www.python.org)
