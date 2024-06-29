@@ -4,7 +4,7 @@
 	<strong>--- Blinking LED ---</strong>
 </p>
 
-Hello World still blinking... I'm Jesse. I've been fascinated by the magic of modern tech. My interest is programming the AVR which is a family of microcontrollers (MCU) developed by Atmel, acquired by Microchip.
+The *Hello World* cliche is still blinking... Hello, I'm Jesse. I've been fascinated by the magic of modern tech. My interest is programming the AVR which is a family of microcontrollers (MCU) developed by Atmel, acquired by Microchip.
 
 ## The two wheeled differential drive mobile robot
 
