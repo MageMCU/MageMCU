@@ -39,6 +39,8 @@ Many beginners use the [Arduino IDE software](https://www.arduino.cc/en/software
 
 Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
 
+[AVRdude Utility](https://github.com/avrdudes/avrdude)
+
 [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 
 ## Make utility
@@ -50,6 +52,8 @@ Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C libra
 The procedural **C** prograomming language is used by beginners and then move to object-oriented programming (OOP), the C++ programming language. 
 
 The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
+
+Second to None is the  [Python Programming Language](https://www.python.org)
 
 ## Libraries
 
