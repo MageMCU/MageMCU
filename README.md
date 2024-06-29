@@ -54,7 +54,7 @@ The reasoning behind the repository publication is to further my studies in the 
 - [Arduino Core](https://github.com/arduino/ArduinoCore-avr)
 - [Arduino Libraries](https://www.arduino.cc/reference/en/libraries/)
 - [PlatformIO Documents](https://docs.platformio.org/en/latest/)
-- Project Configuration File [platformio.ini file](https://docs.platformio.org/en/latest/projectconf/index.html)
+- PlatformIO Project Configuration File [platformio.ini](https://docs.platformio.org/en/latest/projectconf/index.html)
 - [PlatformIO Registry](https://registry.platformio.org/)
 - MCUdude [MightyCore](https://github.com/MCUdude/MightyCore)
 
