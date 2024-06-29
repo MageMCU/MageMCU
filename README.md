@@ -37,8 +37,7 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 Many beginners use the [Arduino IDE software](https://www.arduino.cc/en/software). The advanced AVR programmers may use the [MS Visual Studio Code](https://code.visualstudio.com/) using the [PlatformIO core](https://platformio.org/). 
 
-Study the AVR Tool Chain - Essential Guide used for Makefile
-[Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
+Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
 
 [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 
