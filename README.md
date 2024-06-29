@@ -85,7 +85,8 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 
 ## Electronics Courses
 
-- [MIT OpenCourseWare - Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
+- Bad bad physics - from Maxwell's equations to Kirchhoff's Laws - don't fret it's all good - ha ha
+	- [MIT OpenCourseWare - Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
 - Study **Ohm's Laws** while learning how to use the **Multimeter** - say multimeter five times real fast... 
 - [Oscilloscopes 101 for Engineering Students](https://www.youtube.com/playlist?list=PL2XuMA5AwNUznkBE46tcZAF3p5Edxgm-z)
 
