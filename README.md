@@ -63,7 +63,7 @@ The reasoning behind the repository publication is to further my studies in the 
 
 Second to None is the  [Python Programming Language](https://www.python.org)
 
-## Baremetal
+## Bare Metal Programming
 
 - [ATmega328 Architecture Overview](https://www.youtube.com/watch?v=nvnwsZ7CCSs)
 - [Introduction to Bare Metal AVR Programming](https://www.youtube.com/watch?v=meGMw8K0NGk)
