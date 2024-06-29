@@ -8,7 +8,7 @@ I'm Jesse. I've been fascinated by the magic of modern tech. My interest is prog
 
 ## The two wheeled differential drive mobile robot
 
-I did put together a rudimentary robot to study the interfacing and programming the MCU. Yet, there are many inexpensive two wheeled differential drive mobile robots (DDMR) on sale. The brains for the DDMR is the **Arduino Uno Rev3** board (UNO). 
+I did put together a rudimentary robot to study the interfacing and programming the MCU. Yet, there are many inexpensive two wheeled differential drive mobile robots (DDMR) on sale. The brains for the DDMR is the most used and popular **Arduino Uno Rev3** board (UNO). 
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/87388066/192183593-076dc5a1-4fb2-4893-b88e-f223ffb8636a.jpg" width="400" />
