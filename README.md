@@ -122,8 +122,8 @@ The reasoning behind the repository publication is to further my studies in the 
 
 ## Recommended Electronics Textbook
 
-- Introductory Circuit Analysis, 13th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
-- Laboratory Manual for Introductory Circuit Analysis, 13th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
+- Introductory Circuit Analysis, 14th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
+- Laboratory Manual for Introductory Circuit Analysis, 13th edition [Amazon]()
 
 ## Tentative Disclaimer
 
