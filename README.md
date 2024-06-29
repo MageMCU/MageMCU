@@ -61,11 +61,12 @@ The procedural **C** prograomming language is used by beginners and then move to
  
 The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
 
-- Baremetal
+Second to None is the  [Python Programming Language](https://www.python.org)
+
+## Baremetal
 	- 
 	- [ATmega328 Architecture Overview](https://www.youtube.com/watch?v=nvnwsZ7CCSs)
 
-Second to None is the  [Python Programming Language](https://www.python.org)
 
 ## Libraries
 
