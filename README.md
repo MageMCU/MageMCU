@@ -72,37 +72,16 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 - [PlatformIO Registry](https://registry.platformio.org/)
 - MCUdude [MightyCore](https://github.com/MCUdude/MightyCore)
 
-# References - Please note that all references will be removed in the near future...
-
-## Quick Start
-
-- Modern C++ in Embedded systems - [(YouTube)](https://www.youtube.com/watch?v=1l2g2dAobXA)
-- Bare Metal C++ - [(Online Book)](https://alex-robenko.gitbook.io/bare_metal_cpp/)
-- Compiler Explorer - [(Website)](https://godbolt.org/)
-- An incomplete list of C++ compilers - [(Stroustrup C++ Website)](https://stroustrup.com/compilers.html)
-- C++ Standards Support in GCC - [(Website with Technical Specifications Links)](https://gcc.gnu.org/projects/cxx-status.html)
-  - This is the website to find the difference between the standards & the GCC versions.
-- Free Books to Learn C++ [(Website with advertisements)](https://www.linuxlinks.com/excellent-free-books-learn-c-plus-plus/)
-
-## Visual Studio Code - Quick Tutorial
-
-- VS Code - Setup Makefile & Other Extensions [(YouTube 10 minutes)](https://www.youtube.com/watch?v=whQQF4kVjPY)
-
-## Git and GitHub by using the VS-Code
-
-- Introduction to Github and Git with Ubuntu [(YouTube 8 minutes)](https://www.youtube.com/watch?v=_kAV059yZ_s)
-  - Although it's a short video pay attention to the terminal command 'git config'...
-- Git and GitHub for Beginners - Crash Course by freeCodeCamp.org [(YouTube about 1 hour)](https://www.youtube.com/watch?v=RGOj5yH7evk)
-  - Unlike the first video, it does not cover 'git config'..., but it covers a broad view.
-
 ## Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
 - Writing the Laboratory Notebook (US Department of Education) - [(PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
-     - I had printed this PDF file out into a binder to be used as a quick reference.
-     - There are **not** many lab notebook **examples** to reference, so if anyone has a link, please pass it my way.
-     - [ERIC - Institute of Education Sciences](https://ed.gov) 
-- Laboratory Notebook with permanent numbered pages. Prices may range from 20 to 150 US dollars per notebook.
+- Laboratory Notebook with permanent numbered pages.
    - Scientific Notebook Company - [(Take a look at an example on lab notebooks)](https://snco.com)
+
+## Electronics Textbook
+
+- Introductory Circuit Analysis author Robert L. Boylestad, 13th and now the new 14th edition
+- Laboratory Manual for Introductory Circuit Analysis, 13th edition
 
 ## DIY Beginners Desktop Lab
 
@@ -114,8 +93,9 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
-- Parents and Teachers On Safety Transparency - I have been searching for a contractual agreement example for the school, teacher and parent when it comes to the student's safety [Safety Instructions PDF](https://cs.wmich.edu/gupta/teaching/cs5950/fall2011/safety%20instructions%20from%20International%20University%20Bremen.pdf). Although this is a very simple example, this agreement lacks a legal disclaimer. Furthermore, such an agreement can be made in a household with a DIY electornics labaratory between the parents and their children. As a warning, such laboratories may catch fire.
-	- Recommended Agreement Information
+- Parents and Teachers On Safety Transparency
+- As a warning, such laboratories at home or at school may catch fire.
+	- Recommended Student, Parent and Teacher Signed Agreement
 		- Emergency Phone Numbers
 		- Home Address
 		- Contact Information
@@ -124,20 +104,6 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 		- Witness Name & Signature
 		- Sign and Date
 	- The motivation behind this type of an agreement, there is not enough all-around laboratories in our public schools for vocational readiness. Let's get America back to work.
-
-## Recommended Beginners C++ Textbook
-
-- Programming: Principles and Practice Using C++, 2nd Edition - [(Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
-
-	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
-	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
-	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
-		- The source code has an excellent example in Chapter-24 on his ***matrix.h*** file.
-
-## Recommended Electronics Textbook
-
-- Introductory Circuit Analysis, 14th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
-- Laboratory Manual for Introductory Circuit Analysis, 13th edition [Amazon](https://www.amazon.com)
 
 ## Tentative Disclaimer
 
