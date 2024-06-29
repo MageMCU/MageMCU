@@ -45,6 +45,11 @@ Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C libra
 
 [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 
+## Bare Metal Programming
+
+- [Introduction to Bare Metal AVR Programming](https://www.youtube.com/watch?v=meGMw8K0NGk)
+- [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/)
+
 ## Make utility
 
 - [Using make and writing Makefiles](https://www.gnu.org/software/make/manual/make.html) - When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search with the following keywords: **Makefile Atmega328P Github**.
@@ -62,12 +67,6 @@ The procedural **C** prograomming language is used by beginners and then move to
 The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
 
 Second to None is the  [Python Programming Language](https://www.python.org)
-
-## Bare Metal Programming
-
-- [Introduction to Bare Metal AVR Programming](https://www.youtube.com/watch?v=meGMw8K0NGk)
-- [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/)
-
 
 ## Libraries
 
