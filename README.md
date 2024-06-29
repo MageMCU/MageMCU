@@ -83,6 +83,12 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 - Introductory Circuit Analysis author Robert L. Boylestad, 13th and now the new 14th edition
 - Laboratory Manual for Introductory Circuit Analysis, 13th edition
 
+# Electronics
+
+- [MIT OpenCourseWare - Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
+- Study **Ohm's Laws** while learning how to use the **Multimeter** - say multimeter five times real fast... 
+- [Oscilloscopes 101 for Engineering Students](https://www.youtube.com/playlist?list=PL2XuMA5AwNUznkBE46tcZAF3p5Edxgm-z)
+
 ## DIY Beginners Desktop Lab
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
