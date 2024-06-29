@@ -108,6 +108,7 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 ## Tentative Disclaimer
 
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
+- Email Address: carpenter.software.lc@gmail.com
 
 ## Disclaimer and Terms
 
