@@ -83,7 +83,7 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 - Introductory Circuit Analysis author Robert L. Boylestad, 13th and now the new 14th edition
 - Laboratory Manual for Introductory Circuit Analysis, 13th edition
 
-# Electronics
+## Electronics Courses
 
 - [MIT OpenCourseWare - Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
 - Study **Ohm's Laws** while learning how to use the **Multimeter** - say multimeter five times real fast... 
