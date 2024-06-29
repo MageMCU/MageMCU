@@ -58,7 +58,7 @@ The reasoning behind the repository publication is to further my studies in the 
 - [PlatformIO Registry](https://registry.platformio.org/)
 - MCUdude [MightyCore](https://github.com/MCUdude/MightyCore)
 
-# References
+# References - Please note that all references will be removed in the near future...
 
 ## Quick Start
 
