@@ -4,31 +4,59 @@
 	<strong>--- Blinking LED ---</strong>
 </p>
 
-I'm Jesse. I've been fascinated by the magic of modern tech. My interest is in the AVR which is a family of microcontrollers developed by Atmel, acquired by Microchip but also expanding up from the 8-bitting devices.
+I'm Jesse. I've been fascinated by the magic of modern tech. My interest is programming the AVR which is a family of microcontrollers (MCU) developed by Atmel, acquired by Microchip.
 
-I did put together a rudimentary robot to study the interfacing and programming of MCUs. The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp. Therefore, it would be nice to hear from others on improving the code. 
+## The two wheeled differential drive mobile robot
+
+I did put together a rudimentary robot to study the interfacing and programming the MCU. Yet, there are many inexpensive two wheeled differential drive mobile robots (DDMR) on sale. The brains for the DDMR is the **Arduino Uno Rev3** board (UNO). 
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/87388066/192183593-076dc5a1-4fb2-4893-b88e-f223ffb8636a.jpg" width="400" />
 </p>
 
-The bare metal programming is done on the VS Code using the PlatformIO core but keep in mind the standard tools like GNU GCC C++11 or better. The electronic circuits may be displayed when appropriate. The MCU may be linked to other devices like another MCU in a master-slave relationship along with a bi-directional communication with an experimenting computing device. The communication types are presently I2C (SPI, IoT, RF Devices with emphasize RF Serial Communications Interface, Digital Modulation Shift-Keying). Finally, the type of robot used here is a simple two wheeled differential drive mobile agent.
+## Atmega328P
 
-# IC Components (Sensors) 
+At the heart of the **UNO** is the Atmega328P-PU (atmega328p) MCU. The 28-pin DIP package is easily replaced if damaged. Furthermore the **UNO** with a removed atmega328p can bu used as a programmer.
 
-Embedded Programming levels use the Assembly, C amd C++ languages with the GNU C compiler (gcc) and assembler (as). 
+- [From Arduino to a Microcontroller on a Breadboard](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard/)
+- See datasheet...
 
-Who is the sole responsible body for the hardware (IC Components) quality control and for the electronics software development? 
+## ATmega16U2 
 
-The manufacturer is responsible for the quality control of its own IC components including its software development using any one of the embedded programming language levels.
+The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
 
-Assembler Language GNU C compiled firmware is compatible with the higher C languages which interacts directly with the IC hardware. The C language may be used instead or along with the assembly firmware of the IC component. The C++ language is used at an abstract level such as smart control systems using artificial intelligence. All programming levels work together where the manufacturer uses as a minimum standard to specify all levels of programming into their IC components in their datasheets (or Application Notes). No single enterprise should have a monopoly on any programming that might exclude the GNU C Compiler on their IC component.
+- [Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 Using DFU](https://docs.arduino.cc/retired/hacking/software/DFUProgramming8U2/)
+- See datasheet...
 
-Embedded systems interact directly with the real world like magnetometers to process sensor data and the results are used to interact with the real world by using actuators. The textbook by Stuart J. Russel and Peter Norvig called Artificial Intelligence, A Modern Approach, shows a figure of an intelligent agent interacting with the environment through sensors and actuators. Embedded programmers should place a large image of the figure above their computer especially the one with the BIG question mark.
+## Bootloader
 
-Quality Control and Assurance is the responsibilty of everyone. The manufacture cannot be the sole individual responsible for SOME BAD APPLES. The IC components are mounted on boards if not by the manufacturer then by a third party PCB manufacturer. The client or customer should design a qualitative quantitative quality control test whether such boards are applicable under control methods on the sensor data. Does the board and IC component function as per the manufacture's contract...
+- [Arduino as ISP and Arduino Bootloaders](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP/)
 
-I have a box called misty where I toss bad apples...
+
+## AVR Programming
+
+Many beginners use the [Arduino IDE software](https://www.arduino.cc/en/software). The advanced AVR programmers may use the [MS Visual Studio Code](https://code.visualstudio.com/) using the [PlatformIO core](https://platformio.org/). 
+
+[Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
+
+## Make utility
+
+- [Using make and writing Makefiles](https://www.gnu.org/software/make/manual/make.html) - When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search with the following keywords: **Makefile Atmega328P Github**.
+
+## Programming Language
+
+The procedural **C** prograomming language is used by beginners and then move to object-oriented programming (OOP), the C++ programming language. 
+
+The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
+
+## Libraries
+
+- [Arduino Core](https://github.com/arduino/ArduinoCore-avr)
+- [Arduino Libraries](https://www.arduino.cc/reference/en/libraries/)
+- [PlatformIO Documents](https://docs.platformio.org/en/latest/)
+- Project Configuration File [platformio.ini file](https://docs.platformio.org/en/latest/projectconf/index.html)
+- [PlatformIO Registry](https://registry.platformio.org/)
+- MCUdude [MightyCore](https://github.com/MCUdude/MightyCore)
 
 # References
 
@@ -96,11 +124,6 @@ I have a box called misty where I toss bad apples...
 
 - Introductory Circuit Analysis, 13th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923605)
 - Laboratory Manual for Introductory Circuit Analysis, 13th edition - [(Pearson - Learning. For life.)](https://www.pearson.com/store/p/introductory-circuit-analysis/P100001202025/9780133923780?tab=overview)
-
-## Libraries
-
-- Arduino - [(Library)](https://www.arduino.cc/reference/en/libraries/)
-- PlatformIO - [(Registry)](https://registry.platformio.org/)
 
 ## Tentative Disclaimer
 
