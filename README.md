@@ -38,11 +38,9 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 ## AVR Programming
 
 - Many beginners use the [Arduino IDE software](https://www.arduino.cc/en/software).
-- [Bringing Arduino Into the Professional Environment](https://www.youtube.com/watch?v=EsEl9wDz_Y8)
 - The advanced AVR programmers may use the [MS Visual Studio Code](https://code.visualstudio.com/) using the [PlatformIO core](https://platformio.org/). 
-	- Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
-		- [AVRdude Utility](https://github.com/avrdudes/avrdude)
 
+- [Bringing Arduino Into the Professional Environment](https://www.youtube.com/watch?v=EsEl9wDz_Y8)
 - [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 
 ## Bare Metal Programming
@@ -52,9 +50,12 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 ## Make utility
 
+- Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
+	- [AVRdude Utility](https://github.com/avrdudes/avrdude)
+  
 - [Using make and writing Makefiles](https://www.gnu.org/software/make/manual/make.html)
   
-	- When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search with the following keywords: **Makefile Atmega328P Github**.
+	- When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search with the following keywords: **Makefile mFile Atmega328P Github**.
 
 ## Programming Language
 
