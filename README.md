@@ -111,15 +111,15 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
 - Parents and Teachers On Safety Transparency
-- As a warning, such laboratories at home or at school may catch fire.
-	- Recommended Student, Parent and Teacher Signed Agreement
-		- Emergency Phone Numbers
-		- Home Address
-		- Contact Information
-		- Legal Permissions for Hospitalization
-		- Legal Disclaimer
-		- Witness Name & Signature
-		- Sign and Date
+	- As a warning, such laboratories at home or at school may catch fire.
+		- Recommended Student, Parent and Teacher Signed Agreement
+			- Emergency Phone Numbers
+			- Home Address
+			- Contact Information
+			- Legal Permissions for Hospitalization
+			- Legal Disclaimer
+			- Witness Name & Signature
+			- Sign and Date
 	- The motivation behind this type of an agreement, there is not enough all-around laboratories in our public schools for vocational readiness. Let's get America back to work.
 
 ## Tentative Disclaimer
