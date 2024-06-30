@@ -18,7 +18,7 @@ I did put together a rudimentary robot to study the interfacing and programming 
 
 At the heart of the **UNO** is the Atmega328P-PU (atmega328p) MCU. The 28-pin DIP package is easily replaced if damaged. Furthermore the **UNO** board with the completely removed atmega328p chip can be used as a programmer.
 - [From Arduino to a Microcontroller on a Breadboard](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard/)
-- See datasheet...
+- See datasheet (pdf file) for the Atmega328P...
 
 Note that Arduino as ISP for Arduino Bootloaders below clarifies and exemplifies the one described here...
 
@@ -26,7 +26,7 @@ Note that Arduino as ISP for Arduino Bootloaders below clarifies and exemplifies
 
 The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
 - [Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 Using DFU](https://docs.arduino.cc/retired/hacking/software/DFUProgramming8U2/)
-- See datasheet...
+- See datasheet (pdf file) for the Atmega16U2...
 
 ## Bootloader
 
