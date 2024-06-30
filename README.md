@@ -94,7 +94,7 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 ## Electronics Courses
 
 - Bad bad physics - from Maxwell's equations to Kirchhoff's Laws - don't fret it's all good - ha ha
-	- [MIT OpenCourseWare - Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
+	- [MIT OpenCourseWare - Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) - Includes video lectures...
 - Study **Ohm's Laws** while learning how to use the **Multimeter**
 	- Say the following five times real fast...
  		- **amps ohms volts**
