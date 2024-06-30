@@ -17,7 +17,6 @@ I did put together a rudimentary robot to study the interfacing and programming 
 ## Atmega328P
 
 At the heart of the **UNO** is the Atmega328P-PU (atmega328p) MCU. The 28-pin DIP package is easily replaced if damaged. Furthermore the **UNO** board with the completely removed atmega328p chip can be used as a programmer.
-
 - [From Arduino to a Microcontroller on a Breadboard](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard/)
 - See datasheet...
 
@@ -26,7 +25,6 @@ Note that Arduino as ISP for Arduino Bootloaders below clarifies and exemplifies
 ## ATmega16U2 
 
 The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
-
 - [Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 Using DFU](https://docs.arduino.cc/retired/hacking/software/DFUProgramming8U2/)
 - See datasheet...
 
@@ -39,7 +37,6 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 - Many beginners use the [Arduino IDE software](https://www.arduino.cc/en/software).
 - The advanced AVR programmers may use the [MS Visual Studio Code](https://code.visualstudio.com/) using the [PlatformIO core](https://platformio.org/). 
-
 - [Bringing Arduino Into the Professional Environment](https://www.youtube.com/watch?v=EsEl9wDz_Y8)
 - [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 
@@ -52,17 +49,13 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 - Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
 	- [AVRdude Utility](https://github.com/avrdudes/avrdude)
-  
 - [Using make and writing Makefiles](https://www.gnu.org/software/make/manual/make.html)
-  
 	- When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search with the following keywords: **Makefile mFile Atmega328P Github**.
 
 ## Programming Language
 
 The procedural **C** prograomming language is used by beginners and then move to object-oriented programming (OOP), the **C++** programming language. 
-
 - Programming: Principles and Practice Using C++, 2nd Edition - [(Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup-Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
-
 	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
 	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
 	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
