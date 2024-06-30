@@ -125,7 +125,7 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 ## Tentative Disclaimer
 
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
-- Jesse Carpenter doing business at Carpenter Software LC - Email Address: carpenter.software.lc@gmail.com
+	- Jesse Carpenter doing business at Carpenter Software LC - Email Address: carpenter.software.lc@gmail.com
 - Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
 
 ## Disclaimer and Terms
