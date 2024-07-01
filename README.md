@@ -8,7 +8,7 @@ The *Hello World* cliche is still blinking... Hello, I'm Jesse. I've been fascin
 
 ## The two wheeled differential drive mobile robot
 
-I did put together a rudimentary robot to study the interfacing and programming the MCU. Yet, there are many inexpensive two wheeled differential drive mobile robots (DDMR) on sale. Google ***Arduino Mobile Robot***... The brains for the DDMR is the most used and popular **Arduino Uno Rev3** board (UNO). 
+I did put together a rudimentary robot to study the interfacing and programming the MCU. Yet, there are many inexpensive two wheeled differential drive mobile robots (DDMR) on sale. Google the keywords ***Arduino Differential Drive Mobile Robot*** and then select images... MageMCU repositories has experimental software that will work on these robots: two-wheels with caster, 4-wheels or tracks. The brains for the DDMR is the most used and popular **Arduino Uno Rev3** board (UNO). 
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/87388066/192183593-076dc5a1-4fb2-4893-b88e-f223ffb8636a.jpg" width="400" />
@@ -26,6 +26,7 @@ Note that Arduino as ISP for Arduino Bootloaders below clarifies and exemplifies
 
 The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
 - [Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 Using DFU](https://docs.arduino.cc/retired/hacking/software/DFUProgramming8U2/)
+	- Note that updating this chip is rarely performed...
 - See datasheet (pdf file) for the Atmega16U2...
 
 ## Bootloader
@@ -39,6 +40,8 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - The advanced AVR programmers may use the [MS Visual Studio Code](https://code.visualstudio.com/) using the [PlatformIO core](https://platformio.org/). 
 - [Bringing Arduino Into the Professional Environment](https://www.youtube.com/watch?v=EsEl9wDz_Y8)
 - [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
+	- [Getting Started with Microchip Studio](https://www.youtube.com/playlist?list=PLtQdQmNK_0DQZjOQiqLyJwUcc88MJPOiD)
+		- Note that the software ***Atmel Studio 7*** is now called ***Microchip Studio***. 
 
 ## Bare Metal Programming
 
@@ -62,7 +65,12 @@ The procedural **C** prograomming language is used by beginners and then move to
  
 The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
 
-Second to None is the  [Python Programming Language](https://www.python.org)
+## Computers
+
+- The Arduino integrated development environment (IDE) is a cross-platform application (for Microsoft Windows, macOS, and Linux operating systems)...
+- Many older computers may be made to use a Linux operating system like Ubuntu which is recommended when connecting electronic circuits by USB because electrostatic discharge (ESD) may occur when the flow of electricity is interrupted for example the data aqusition to your computer from a circuit running dc motors may well blow the USB circuit on the computer.
+- The new Raspberry Pi 5 (Pi5) and its operating system is an inexpensive linux platform that is often used with the Arduino IDE. The newer Pi5 with 8GB has plenty of memory and processing power to run the Arduino IDE 2, VSCode with PlatformIO without any issues. If an ESD occurs on the RPi5 USB, the RPi5 can be replaced at a low cost...
+	- This is what the author uses for AVR programming. 
 
 ## Libraries
 
@@ -77,7 +85,7 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 
 - Writing the Laboratory Notebook (US Department of Education) - [(PDF file)](https://files.eric.ed.gov/fulltext/ED344734.pdf)
 - Laboratory Notebook with permanent numbered pages.
-   - Scientific Notebook Company - [(Take a look at an example on lab notebooks)](https://snco.com)
+  - Scientific Notebook Company - [(Take a look at an example on lab notebooks)](https://snco.com)
 
 ## Electronics Textbook
 
@@ -117,11 +125,10 @@ Second to None is the  [Python Programming Language](https://www.python.org)
 
 ## Tentative Disclaimer
 
-- This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
-	- Jesse Carpenter doing business at Carpenter Software LC - Email: carpenter.software.lc@gmail.com
 - Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
-
-## Disclaimer and Terms
-
-Please follow the ***Disclaimer*** and ***Terms*** in each of the Depositories here at MageMCU.
+- The MageMCU Github account is actively hacking away on experimental software for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
+- This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
+	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
+- Please follow the ***Disclaimers*** and ***Terms*** in each of the depositories.
+- MageMCU Repository revised 20240701
 
