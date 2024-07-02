@@ -34,7 +34,7 @@ The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - [Burn the bootloader on UNO...](https://support.arduino.cc/hc/en-us/articles/4841602539164-Burn-the-bootloader-on-UNO-Mega-and-classic-Nano-using-another-Arduino#common-pins)
 	- [UNO R3](https://docs.arduino.cc/hardware/uno-rev3/)
  		- [UNO R3 Schemtic](https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf)
-			- In the schematic, notice where the TX-RX and the RX-TX connection cross between the atmega16u2 and the atmega328p...
+			- Notice where in the schematic the TX-RX and the RX-TX connections cross between the atmega16u2 and the atmega328p...
 
 
 ## AVR Programming
