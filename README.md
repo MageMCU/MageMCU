@@ -25,7 +25,7 @@ Note that **Bootloader** below clarifies and exemplifies the one described here.
 
 ## ATmega16U2 
 
-The ATmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
+The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the computer's USB port and the MCU serial port. 
 - [Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 Using DFU](https://docs.arduino.cc/retired/hacking/software/DFUProgramming8U2/)
 	- Note that updating this chip is rarely performed unless a new chip is placed on the UNO.
 - See datasheet (pdf file) for the Atmega16U2...
