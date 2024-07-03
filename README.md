@@ -16,7 +16,7 @@ I did put together a rudimentary robot to study the interfacing and programming 
 
 ## Atmega328P
 
-At the heart of the **UNO** is the Atmega328P-PU (atmega328p) MCU. The 28-pin DIP package is easily replaced if damaged. Furthermore the **UNO** board with the completely removed atmega328p chip can be used as a programmer.
+At the heart of the **UNO** is the Atmega328P-PU (atmega328p) MCU. The 28-pin DIP package is easily replaced if damaged. Furthermore the **UNO** board with the atmega328p chip removed can be used as a programmer.
 - The Arduino to a Microcontroller on a Breadboard [Uploading a Sketch Using an Arduino Board](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard/)
 	- Remove the atmega328p chip from the UNO in order to use the UNO as a programmer...
 - See datasheet (pdf file) for the Atmega328P...
