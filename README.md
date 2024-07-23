@@ -139,7 +139,7 @@ The reasoning behind the repository publication is to further my studies in the 
 
 ## BUG FIX
 
-- Joystick.h file
+- In the Joystick.h file, the algorithm uses abs() function but it uses the (int) integer type instead of a float...
 ```
     // BUG FIX 20240722 jc
     template <typename real>
