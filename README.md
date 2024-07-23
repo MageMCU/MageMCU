@@ -137,3 +137,17 @@ The reasoning behind the repository publication is to further my studies in the 
 - Please follow the ***Disclaimers*** and ***Terms*** in each of the depositories.
 - MageMCU Repository revised 20240701
 
+## BUG FIX
+
+- Joystick.h file
+```
+    // BUG FIX 20240722 jc
+    template <typename real>
+    real Joystick<real>::ABS(real val)
+    {
+        real Zero = (real)0;
+        if (val < Zero)
+            val *= (real)-1;
+        return val;
+    }
+```
