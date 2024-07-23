@@ -137,9 +137,11 @@ The reasoning behind the repository publication is to further my studies in the 
 - Please follow the ***Disclaimers*** and ***Terms*** in each of the depositories.
 - MageMCU Repository revised 20240701
 
-## BUG FIX
+## BUG FIXES
 
 - In the Joystick.h file, the algorithm uses abs() function but it uses the (int) integer type instead of a float...
+	- Has yet to be incprporated into the older repositories...
+   	- I caught this while coding - Wireless Communication - nRF24L01
 ```
     // BUG FIX 20240722 jc
     template <typename real>
@@ -151,3 +153,4 @@ The reasoning behind the repository publication is to further my studies in the 
         return val;
     }
 ```
+
