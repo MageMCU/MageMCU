@@ -142,10 +142,11 @@ The reasoning behind the repository publication is to further my studies in the 
 - In the Joystick.h file, the algorithm uses abs() function but it uses the (int) integer type instead of a float...
 	- Has yet to be incorporated into the older repositories...
    	- I caught this while coding - Wireless Communication - nRF24L01
+   	- As of 20240805, code moved to MiscMath.h. See all header revisions in the include folder, Wireless Communication Repository.
 ```
-    // BUG FIX 20240722 jc
+   // BUG FIX 20240805 jc
     template <typename real>
-    real Joystick<real>::ABS(real val)
+    real ABS_REAL(real val)
     {
         real Zero = (real)0;
         if (val < Zero)
