@@ -142,7 +142,7 @@ The reasoning behind the repository publication is to further my studies in the 
 - In the Joystick.h file, the algorithm uses abs() function but it uses the (int) integer type instead of a float...
 	- Has yet to be incorporated into the older repositories...
    	- I caught this while coding - Wireless Communication - nRF24L01
-   	- As of 20240813, the code was added to MiscMath.h. See all header revisions in the include folder in both the Wireless Communication and Joystick Uno L298N repositories.
+   	- As of 20240813, the code was added to MiscMath.h. See all header revisions in the include folder in both the *Wireless Communication* and the *Joystick Uno L298N* repositories.
 ```
    template <typename T>
     T absT(T val)
