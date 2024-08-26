@@ -149,7 +149,7 @@ The reasoning behind the repository publication is to further my studies in the 
 ## Tentative Disclaimer
 
 - Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
-- **BUYER BEWARE** - this Github account uses links to Amazon marked as **Å**... All issues related to **Å** products should be directed to **Å**. Get it **ÅÅÅ**.
+- **BUYER BEWARE** - this Github account uses links to Amazon marked as **Å**... All issues related to **Å** products should be directed to **Å**.
 - The MageMCU Github account is actively hacking away on **experimental code** for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
