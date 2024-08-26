@@ -153,5 +153,5 @@ The reasoning behind the repository publication is to further my studies in the 
         return val;
     }
 ```
-- The Joystick Uno L298N repository has been updated with this fix and other issues including expanding the L298N Bits() function from eight (8) to sixteen (16) combinations with finishes the Motor Movement Checklist (MMC). See article 1009 - L298N Supplemental for more informtion.
+- The Joystick Uno L298N repository has been updated with this fix. Other issues including expanding the L298N Bits() function from eight (8) to sixteen (16) combinations which finishes the Motor Movement Checklist (MMC). The article ***1009 - L298N Supplemental*** has been updated with more informtion in how to use the L298N Bits() function.
 
