@@ -128,15 +128,6 @@ The reasoning behind the repository publication is to further my studies in the 
 			- Sign and Date
 	- The motivation behind this type of an agreement, there is not enough all-around laboratories in our public schools for vocational readiness. Let's get America back to work.
 
-## Tentative Disclaimer
-
-- Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
-- The MageMCU Github account is actively hacking away on experimental software for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
-- This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
-	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
-- Please follow the ***Disclaimers*** and ***Terms*** in each of the depositories.
-- MageMCU Repository revised 20240701
-
 ## BUG FIXES
 
 - In the Joystick.h file, the algorithm uses abs() function but it uses the (int) integer type instead of a float...
@@ -154,4 +145,14 @@ The reasoning behind the repository publication is to further my studies in the 
     }
 ```
 - The Joystick Uno L298N repository has been updated with this fix. Other issues including expanding the L298N Bits() function from eight (8) to sixteen (16) combinations which finishes the Motor Movement Checklist (MMC). The article ***1009 - L298N Supplemental*** has been updated with more informtion in how to use the L298N Bits() function.
+
+## Tentative Disclaimer
+
+- Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
+- **BUYER BEWARE** - this Github account uses links to Amazon marked as **Å**... All issues related to **Å** products should be directed to **Å**. Get it **ÅÅÅ**.
+- The MageMCU Github account is actively hacking away on **experimental code** for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
+- This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
+	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
+- Please follow the ***Disclaimers*** and ***Terms*** in each of the depositories.
+- MageMCU Repository revised 20240826
 
