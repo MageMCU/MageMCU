@@ -153,6 +153,6 @@ The reasoning behind the repository publication is to further my studies in the 
 - The MageMCU Github account is actively hacking away on **experimental code** for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
-- Please follow the ***Disclaimers*** and ***Terms*** in each of the depositories.
+- Please follow the ***Disclaimers*** and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
 - MageMCU Repository revised 20240826
 
