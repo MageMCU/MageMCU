@@ -58,7 +58,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
 	- [AVRdude Utility](https://github.com/avrdudes/avrdude)
 - [Using make and writing Makefiles](https://www.gnu.org/software/make/manual/make.html)
-	- When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search with the following keywords: **Makefile mFile Atmega328P Github**.
+	- When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search the keywords: **Makefile mFile Atmega328P Github**. Learning how to use these **MakeFile** templates is a great way to understand the AVR Tool Chain.
 
 ## Programming Language
 
@@ -110,7 +110,6 @@ The reasoning behind the repository publication is to further my studies in the 
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
 - [A DIY electronics lab for beginners](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
-- Please Read the ***MageMCU Disclaimer***
 - **Safety Data Sheets**, where to find **MSDS** and **SDS** on the internet... **Safety Comes First**.
 	- OSHA Laboratory Safety Guidance [PDF](https://www.osha.gov/sites/default/files/publications/OSHA3404laboratory-safety-guidance.pdf)
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
@@ -154,5 +153,5 @@ The reasoning behind the repository publication is to further my studies in the 
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
 - Please follow the ***Disclaimers*** and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
-- MageMCU repository revised 20240826
+- MageMCU repository revised 20240829
 
