@@ -111,8 +111,8 @@ The reasoning behind the repository publication is to further my studies in the 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
 - [A DIY electronics lab for beginners](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
 - **Safety Data Sheets**, where to find **MSDS** and **SDS** on the internet... **Safety Comes First**.
+	- [Example MSDS for Pb](https://www.jscc.edu/about-jackson-state/administration/safety-and-security/sds-files/lead.pdf)
 	- OSHA Laboratory Safety Guidance [PDF](https://www.osha.gov/sites/default/files/publications/OSHA3404laboratory-safety-guidance.pdf)
-  		- [Example MSDS for Pb](https://www.jscc.edu/about-jackson-state/administration/safety-and-security/sds-files/lead.pdf)
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
