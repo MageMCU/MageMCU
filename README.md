@@ -112,6 +112,7 @@ The reasoning behind the repository publication is to further my studies in the 
 - [A DIY electronics lab for beginners](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
 - **Safety Data Sheets**, where to find **MSDS** and **SDS** on the internet... **Safety Comes First**.
 	- [Example MSDS for Pb](https://www.jscc.edu/about-jackson-state/administration/safety-and-security/sds-files/lead.pdf) This is from Jackson State Community College in Tennessee.
+	- [Lead Solder Alloy MSDS](https://hybridatelier.uta.edu/uploads/equipment/msds/4/24-6040-6401_msds.pdf) This is from University of Texas at Arlington.
 	- OSHA Laboratory Safety Guidance [PDF](https://www.osha.gov/sites/default/files/publications/OSHA3404laboratory-safety-guidance.pdf)
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
