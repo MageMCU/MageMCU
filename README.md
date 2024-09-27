@@ -109,7 +109,8 @@ The reasoning behind the repository publication is to further my studies in the 
 ## DIY Beginners Desktop Lab
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
-- [A DIY electronics lab for beginners](https://thesmarthomejourney.com/2020/10/12/diy-electronics-lab-desk/)
+- [Electronics Lab Bench Setup Guide](https://www.reddit.com/r/electronics/comments/13ey0pb/electronics_lab_bench_setup_guide/?rdt=55016)
+- [Making a Home Laboratory for Fun Projects](https://www.instructables.com/Making-a-Home-Electronic-Laboratory-Introduction-/)
 - **Safety Data Sheets**, where to find **MSDS** and **SDS** on the internet... **Safety Comes First**.
 	- [Example MSDS for Pb](https://www.jscc.edu/about-jackson-state/administration/safety-and-security/sds-files/lead.pdf) This is from Jackson State Community College in Tennessee.
   		- Legal requirement...
