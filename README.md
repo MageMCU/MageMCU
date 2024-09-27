@@ -106,7 +106,7 @@ The reasoning behind the repository publication is to further my studies in the 
  		- **amps ohms volts**
 - [Oscilloscopes 101 for Engineering Students](https://www.youtube.com/playlist?list=PL2XuMA5AwNUznkBE46tcZAF3p5Edxgm-z)
 
-## DIY Beginners Desktop Lab
+## DIY Beginners Electronics Desktop Lab
 
 - [Make a One Desk Electronics Lab](https://www.instructables.com/Make-a-One-Desk-Electronics-Lab-in-a-Small-Place-f/)
 - [Electronics Lab Bench Setup Guide](https://www.reddit.com/r/electronics/comments/13ey0pb/electronics_lab_bench_setup_guide/?rdt=55016)
