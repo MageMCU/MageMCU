@@ -112,9 +112,9 @@ The reasoning behind the repository publication is to further my studies in the 
 - [Electronics Lab Bench Setup Guide](https://www.reddit.com/r/electronics/comments/13ey0pb/electronics_lab_bench_setup_guide/?rdt=55016)
 - [Making a Home Laboratory for Fun Projects](https://www.instructables.com/Making-a-Home-Electronic-Laboratory-Introduction-/)
 - **Safety Data Sheets**, where to find **MSDS** and **SDS** on the internet... **Safety Comes First**.
-	- [Lead - Safety Data Sheet (MDS)](https://beta-static.fishersci.com/content/dam/fishersci/en_US/documents/programs/education/regulatory-documents/sds/gsc-lead-safety-data-sheet.pdf) This is from Fisher Sciebtific.
-	- [Lead Solder Alloy MSDS](https://hybridatelier.uta.edu/uploads/equipment/msds/4/24-6040-6401_msds.pdf) This is from University of Texas at Arlington.
-	- [Tin/Lead Solid Solder - Safety Data Sheet (MDS)](https://weldcotemetals.com/SDS/Welding/sds-tin-lead-solid-solder.pdf) This is from Weldcote Metals.
+	- [Lead - Safety Data Sheet (SDS)](https://beta-static.fishersci.com/content/dam/fishersci/en_US/documents/programs/education/regulatory-documents/sds/gsc-lead-safety-data-sheet.pdf) This is from Fisher Sciebtific.
+	- [Lead Solder Alloy - MAterial Safety Data Sheet (MSDS)](https://hybridatelier.uta.edu/uploads/equipment/msds/4/24-6040-6401_msds.pdf) This is from University of Texas at Arlington.
+	- [Tin/Lead Solid Solder - Safety Data Sheet (SDS)](https://weldcotemetals.com/SDS/Welding/sds-tin-lead-solid-solder.pdf) This is from Weldcote Metals.
 	- OSHA Laboratory Safety Guidance [PDF](https://www.osha.gov/sites/default/files/publications/OSHA3404laboratory-safety-guidance.pdf)
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
