@@ -46,7 +46,8 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - [Bringing Arduino Into the Professional Environment](https://www.youtube.com/watch?v=EsEl9wDz_Y8)
 - [AVR Professional Programming Software](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 	- [Getting Started with Microchip Studio](https://www.youtube.com/playlist?list=PLtQdQmNK_0DQZjOQiqLyJwUcc88MJPOiD)
-		- Note that the software ***Atmel Studio 7*** is now called ***Microchip Studio***. 
+		- Note that the software ***Atmel Studio 7*** is now called ***Microchip Studio***.
+- For the Raspberry Pi depending on the memory, the following editors will be used *Geany*, *Code::Blocks*, *MS VS Code* and *Arduino IDE*.
 
 ## Bare Metal Programming
 
