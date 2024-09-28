@@ -87,6 +87,8 @@ The reasoning behind the repository publication is to further my studies in the 
 - PlatformIO Project Configuration File [platformio.ini](https://docs.platformio.org/en/latest/projectconf/index.html)
 - [PlatformIO Registry](https://registry.platformio.org/)
 - MCUdude [MightyCore](https://github.com/MCUdude/MightyCore)
+- [RadioHead](https://github.com/epsilonrt/RadioHead) used for nRF24L01+ radio.
+- [WiringPi](https://github.com/WiringPi/WiringPi) will be used in up-coming Raspberry Pi Projects...
 
 ## Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
