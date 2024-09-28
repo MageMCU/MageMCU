@@ -57,6 +57,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 - Study the AVR Tool Chain - Essential Guide used for Makefile - [Standard C library for AVR-GCC](https://www.nongnu.org/avr-libc/user-manual/overview.html)
 	- [AVRdude Utility](https://github.com/avrdudes/avrdude)
+		- This has a PDF file for AVRdude.
 - [Using make and writing Makefiles](https://www.gnu.org/software/make/manual/make.html)
 	- When writing a MakeFile that uses avr-gcc, avr-objcopy and avrdude, Google search the keywords: **Makefile mFile Atmega328P Github**. Learning how to use these **MakeFile** templates is a great way to understand the AVR Tool Chain.
    		- Use the following **make** [example](https://github.com/divayprakash/make/tree/master) as a guide while studying the AVR Tool Chain. Save a copy and expand those sections with additional comments (#) with a better description...
