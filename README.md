@@ -162,5 +162,5 @@ The reasoning behind the repository publication is to further my studies in the 
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
 - Please follow the ***Disclaimers*** and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
-- MageMCU repository revised 20240927
+- MageMCU repository revised 20240928
 
