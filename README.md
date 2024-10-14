@@ -78,7 +78,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
  		- Archives for offline viewing - [source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 	- Be carefull when using the Standard (STD) Library with Arduino Boards.
  		- Use the [Arduino Documentation](https://docs.arduino.cc) instead of the STD Lib...
-		- Select **Language Reference**
+		- Arduino Docs - In the left column, select **Language Reference**
 			- **Functions**
 			- **Variables**
 				- **Data Types** - Here you'll find **string** and **String()**
