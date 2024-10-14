@@ -73,7 +73,8 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - International Organization for Standardization (ISO) & Resources [Souece](https://isocpp.org/std/the-standard)
 	- ISO [Get Started](https://isocpp.org/get-started)
 - C++ Reference [Source](https://en.cppreference.com/w/)
-	- Standard library [headers](https://en.cppreference.com/w/cpp/standard_library)
+	- Standard Library [Headers](https://en.cppreference.com/w/cpp/standard_library)
+ 		- This is the reference for the Raspberry Pi...
  		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 	- Be carefull when using the Standard (STD) Library with Arduino Boards.
  		- Use the [Arduino Documentation](https://docs.arduino.cc) instead of the STD Lib...
@@ -172,5 +173,5 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software LC - Email: carpenter.software.lc@gmail.com
 - Please follow the ***Disclaimers*** and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
-- MageMCU repository revised 20240928
+- MageMCU repository revised 20241014
 
