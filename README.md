@@ -70,9 +70,9 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
 	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
 	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
-- International Organization for Standardization (ISO) & Resources [Souece](https://isocpp.org/std/the-standard)
+- International Organization for Standardization (ISO) & Resources [Source:](https://isocpp.org/std/the-standard)
 	- ISO [Get Started](https://isocpp.org/get-started)
-- C++ Reference [Source](https://en.cppreference.com/w/)
+- C++ Reference [Source:](https://en.cppreference.com/w/)
 	- Standard Library [Headers](https://en.cppreference.com/w/cpp/standard_library)
  		- This is the reference for the Raspberry Pi...
  		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
