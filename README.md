@@ -76,7 +76,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 	- Standard library [headers](https://en.cppreference.com/w/cpp/standard_library)
  		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 	- Be carefull when using the Standard (STD) Library with Arduino Boards.
- 		- Use [Arduino Documentation](https://docs.arduino.cc) instaed of the STD Lib...
+ 		- Use the [Arduino Documentation](https://docs.arduino.cc) instead of the STD Lib...
 			- Select **Language Reference**
 				- Functions
 				- Variables
