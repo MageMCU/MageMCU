@@ -81,7 +81,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 		- Select **Language Reference**
 			- **Functions**
 			- **Variables**
-     				- **Data Types** - Here you'll find **string** and **String()**
+				- **Data Types** - Here you'll find **string** and **String()**
 			- **Structure**
 - *The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.*
 
