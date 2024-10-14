@@ -71,7 +71,18 @@ The procedural **C** prograomming language is used by beginners and then move to
 	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
 	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
  
-The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
+- The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.
+- International Organization for Standardization (ISO) & Resources [Souece](https://isocpp.org/std/the-standard)
+	- ISO [Get Started](https://isocpp.org/get-started)
+- C++ Reference [Source](https://en.cppreference.com/w/)
+	- Be carefull when using the Standard (STD) Library with Arduino Uno.
+ 		- Use [Arduino Documentation](https://docs.arduino.cc) instaed of the STD Lib...
+			- Select **Language Reference**
+				- Functions
+				- Variables
+				- Structure
+	- Standard library [headers](https://en.cppreference.com/w/cpp/standard_library)
+ 		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 
 ## Computers
 
