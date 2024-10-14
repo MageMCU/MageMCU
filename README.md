@@ -70,17 +70,19 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
 	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
 	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
-- International Organization for Standardization (ISO) & Resources [Source:](https://isocpp.org/std/the-standard)
+- International Organization for Standardization (ISO) & Resources - [source](https://isocpp.org/std/the-standard)
 	- ISO [Get Started](https://isocpp.org/get-started)
-- C++ Reference [Source:](https://en.cppreference.com/w/)
+- C++ Reference - [source](https://en.cppreference.com/w/)
 	- Standard Library [Headers](https://en.cppreference.com/w/cpp/standard_library)
  		- This is the reference for the Raspberry Pi...
- 		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
+ 		- Archives for offline viewing - [source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 	- Be carefull when using the Standard (STD) Library with Arduino Boards.
  		- Use the [Arduino Documentation](https://docs.arduino.cc) instead of the STD Lib...
 			- Select **Language Reference**
 				- Functions
 				- Variables
+     					- Data Types
+						 Here you'll find **string** and **String()**
 				- Structure
 - *The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.*
 
