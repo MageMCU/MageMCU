@@ -75,14 +75,14 @@ The procedural **C** prograomming language is used by beginners and then move to
 - International Organization for Standardization (ISO) & Resources [Souece](https://isocpp.org/std/the-standard)
 	- ISO [Get Started](https://isocpp.org/get-started)
 - C++ Reference [Source](https://en.cppreference.com/w/)
-	- Be carefull when using the Standard (STD) Library with Arduino Uno.
+	- Standard library [headers](https://en.cppreference.com/w/cpp/standard_library)
+ 		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
+	- Be carefull when using the Standard (STD) Library with Arduino Boards.
  		- Use [Arduino Documentation](https://docs.arduino.cc) instaed of the STD Lib...
 			- Select **Language Reference**
 				- Functions
 				- Variables
 				- Structure
-	- Standard library [headers](https://en.cppreference.com/w/cpp/standard_library)
- 		- Archives for offline viewing [Source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 
 ## Computers
 
