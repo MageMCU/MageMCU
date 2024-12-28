@@ -92,9 +92,9 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
    		- Since linux 4.8 the GPIO sysfs interface is deprecated. User space should use the character device instead. Version 2 of libgpiod requires GPIO character device uAPI v2 which was first released in linux 5.10. This library encapsulates the ioctl calls and data structures behind a straightforward API.
    		- [libgpiod library documentation](https://libgpiod.readthedocs.io/en/latest/index.html) this includes both C++ and Python bindings...
    		- [Lloyd Rochester](https://lloydrochester.com/post/hardware/libgpiod-intro-rpi/)
-   		- [libgpiod GPIO-Manager](https://www.youtube.com/watch?v=tUFcWVwyzQg)
-   		- [Linux GPIO: Evolution and Current State of the User API](https://www.youtube.com/watch?v=0APvuY2eLkY)
-   		- [New GPIO interface for linux user space](https://www.youtube.com/watch?v=BK6gOLVRKuU) (GPIO character device API and libgpiod)
+   		- [libgpiod GPIO-Manager](https://www.youtube.com/watch?v=tUFcWVwyzQg) Bartosz Golaszewski 2024
+   		- [Linux GPIO: Evolution and Current State of the User API](https://www.youtube.com/watch?v=0APvuY2eLkY) Bartosz Golaszewski 2020
+   		- [New GPIO interface for linux user space](https://www.youtube.com/watch?v=BK6gOLVRKuU) (GPIO character device API and libgpiod) Bartosz Golaszewski 2019
 - I2C
 	- Uses the ioctl call
 - SPI
