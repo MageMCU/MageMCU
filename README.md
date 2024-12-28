@@ -113,12 +113,12 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 - [Arduino Core](https://github.com/arduino/ArduinoCore-avr)
 - [Arduino Libraries](https://www.arduino.cc/reference/en/libraries/)
+	- [Arduino Reference](https://docs.arduino.cc/language-reference/) 
 - [PlatformIO Documents](https://docs.platformio.org/en/latest/)
 - PlatformIO Project Configuration File [platformio.ini](https://docs.platformio.org/en/latest/projectconf/index.html)
 - [PlatformIO Registry](https://registry.platformio.org/)
-- MCUdude [MightyCore](https://github.com/MCUdude/MightyCore)
 - [RadioHead](https://github.com/epsilonrt/RadioHead) used for nRF24L01+ radio.
-- [WiringPi](https://github.com/WiringPi/WiringPi) will be used in up-coming Raspberry Pi Projects...
+- [WiringPi](https://github.com/WiringPi/WiringPi) used to study its code but not recommended. See Embedded Linux above...
 
 ## Lab Notebook: Science - Physics - Chemistry - Engineering - Electronics - Robotics
 
