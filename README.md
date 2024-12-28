@@ -85,15 +85,16 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 			- **Structure**
 - *The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.*
 
-## Embedded Linux (Raspberry Pi)
+## Embedded Linux (Programming the Raspberry Pi in C++)
 - GPIO
 	- WiringPi (not recommended)
    	- libgpiod library
    		- Since linux 4.8 the GPIO sysfs interface is deprecated. User space should use the character device instead. Version 2 of libgpiod requires GPIO character device uAPI v2 which was first released in linux 5.10. This library encapsulates the ioctl calls and data structures behind a straightforward API.
+   		- [Bartosz Golaszewski Github](https://github.com/brgl/libgpiod)
 - I2C
-	- Uses the ioctl calls
+	- Uses the ioctl call
 - SPI
-	- Uses the ioctl calls
+	- Uses the ioctl call
 
 ## Computers
 
