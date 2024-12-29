@@ -86,11 +86,11 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - *The reasoning behind the repository publication is to further my studies in the C++ programming language to include C++ templates along with C++ meta programming. Many in the industry would narrow the modern C++ language down by encapsulating it into a singularity called abstraction. Unfortunately, many like myself where the modern C++ abstraction is difficult to grasp.*
 
 ## Embedded Linux - Raspberry Pi
-- GPIO
+- GPIO in user-space
 	- WiringPi (not recommended)
   	- sysfs (deprecated)
    	- libgpiod library - GPIO character device
-   		- Since linux 4.8 the GPIO sysfs interface is deprecated. User space should use the character device instead. This library encapsulates the ioctl calls and data structures behind a straightforward Application Binary Interface - ABI.
+   		- Since linux 4.8 the GPIO **sysfs** interface is deprecated. User space should use the character device instead. This library encapsulates the ioctl calls and data structures behind a straightforward Application Binary Interface - ABI.
    	  	- [Bartosz Golaszewski - libgpiod](https://github.com/brgl/libgpiod) C library and tools for interacting with the linux GPIO
              character device (gpiod stands for GPIO device) A mirror of the original repository over at kernel.org. The github page is for discussions and issue reporting only. But, nice to see the code....
    		- [libgpiod library documentation](https://libgpiod.readthedocs.io/en/latest/index.html) this includes both C++ and Python bindings...
@@ -98,9 +98,10 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
    		- [New GPIO interface for linux user space](https://www.youtube.com/watch?v=BK6gOLVRKuU) Bartosz Golaszewski 2019
    		- [Linux GPIO: Evolution and Current State of the User API](https://www.youtube.com/watch?v=0APvuY2eLkY) Bartosz Golaszewski 2020
    	   	- [Libgpiod V2: New Major Release with a Ton of New Features](https://www.youtube.com/watch?v=6fxcDDLII6Y) Bartosz Golaszewski 2022
-   		- [libgpiod GPIO-Manager](https://www.youtube.com/watch?v=tUFcWVwyzQg) Bartosz Golaszewski 2024- I2C
+   		- [libgpiod GPIO-Manager](https://www.youtube.com/watch?v=tUFcWVwyzQg) Bartosz Golaszewski 2024
+- I2C in user-space
 	- Uses the ioctl call
-- SPI
+- SPI in user-space
 	- Uses the ioctl call
 
 ## Computers
