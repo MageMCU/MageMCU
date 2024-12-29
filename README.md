@@ -193,5 +193,5 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software - Email: carpenter.software.jc@gmail.com
 - Please follow the ***Disclaimers*** and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
-- MageMCU repository revised 20241014
+- MageMCU repository revised 20241229
 
