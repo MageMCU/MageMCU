@@ -87,8 +87,8 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 ## Embedded Linux - Raspberry Pi
 - GPIO in user-space
-	- WiringPi (not recommended)
-  	- sysfs (deprecated)
+	- Raspberry Pi - [Whitepapers, App Notes & Compliance Guides](https://pip.raspberrypi.com/categories/685-whitepapers-app-notes-compliance-guides)
+  		- [A history of GPIO usage on Raspberry Pi devices, and current best practices](https://pip.raspberrypi.com/categories/685-whitepapers-app-notes-compliance-guides/documents/RP-006553-WP/A-history-of-GPIO-usage-on-Raspberry-Pi-devices-and-current-best-practices.pdf)
    	- libgpiod library - GPIO character device
    		- Since linux 4.8 the GPIO **sysfs** interface is deprecated. User space should use the character device instead. This library encapsulates the ioctl calls and data structures behind a straightforward Application Binary Interface - ABI.
    	  	- [Bartosz Golaszewski - libgpiod](https://github.com/brgl/libgpiod) C library and tools for interacting with the linux GPIO
