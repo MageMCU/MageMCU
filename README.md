@@ -36,7 +36,7 @@ While the Arduino Uno R3 is designed to be a user-friendly platform for beginner
 
 The Arduino Uno R3 is designed to be easy to use for digital projects by non-engineers. You don't need to understand every single component and its complex interactions to get started and build projects. However, to truly understand the inner workings of the board and potentially design your own circuits, a deeper dive into electronics knowledge would be necessary. 
 
-Source: 
+Source: [Arduino From Scratch Series at Rheingold Heavy website](https://rheingoldheavy.com/arduino-from-scratch-series/)
 
 ## Atmega328P
 
