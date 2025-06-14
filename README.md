@@ -88,7 +88,6 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - C++ Reference - [source](https://en.cppreference.com/w/)
 	- Standard Library [Headers](https://en.cppreference.com/w/cpp/standard_library)
  		- This is the reference for the Raspberry Pi...
- 		- Archives for offline viewing - [source](https://en.cppreference.com/w/Cppreference:Archives) Use the *HTML ZIP file*
 	- Be carefull when using the Standard (STD) Library with Arduino Boards.
  		- Use the [Arduino Documentation](https://docs.arduino.cc) instead of the STD Lib...
 		- Arduino Docs - In the left column, select **Language Reference**
