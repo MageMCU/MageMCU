@@ -17,26 +17,15 @@ I did put together a rudimentary robot to study the interfacing and programming 
 ## Arduino Uno R3
 
 While the Arduino Uno R3 is designed to be a user-friendly platform for beginners, its entire circuit is not entirely simple in terms of its underlying electronics and the specific functionalities of each component. 
-
 - Underlying Components: The Arduino Uno R3 is a microcontroller board, meaning it has a central component (the microcontroller) that handles the processing and control logic.
-
 - Specialized Functions: Beyond the basic microcontroller, the board includes a variety of other components with specific functions, such as:
-
 	- Voltage Regulators: Regulate the input voltage to the stable 5V required by the microcontroller.
-
 	- USB-to-Serial Converter: Facilitates communication between the computer and the microcontroller via USB.
-
 	- Oscillators: Provide the clock signal needed for the microcontroller to operate.
-
 	- Analog-to-Digital Converter (ADC): Allows the microcontroller to read analog signals from sensors and convert them into digital data.
-
 - Power Management: The board includes a circuitry to manage power input from various sources (USB, barrel jack, Vin pin).
-
 - Protection Features: The board has features to protect against short circuits and reverse polarity. 
-
-The Arduino Uno R3 is designed to be easy to use for digital projects by non-engineers. You don't need to understand every single component and its complex interactions to get started and build projects. However, to truly understand the inner workings of the board and potentially design your own circuits, a deeper dive into electronics knowledge would be necessary. 
-
-Source: [Arduino From Scratch Series at Rheingold Heavy website](https://rheingoldheavy.com/arduino-from-scratch-series/)
+The Arduino Uno R3 is designed to be easy to use for digital projects by non-engineers. You don't need to understand every single component and its complex interactions to get started and build projects. However, to truly understand the inner workings of the board and potentially design your own circuits, a deeper dive into electronics knowledge would be necessary. The following source is that deeper dive into electronics: [Arduino From Scratch Series at Rheingold Heavy website](https://rheingoldheavy.com/arduino-from-scratch-series/)
 
 ## Atmega328P
 
