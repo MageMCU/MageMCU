@@ -165,6 +165,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 	- OSHA Hazard Communication Safety Data Sheets [Quick Card PDF](https://www.osha.gov/sites/default/files/publications/OSHA3493QuickCardSafetyDataSheet.pdf)
 	- Pb Lead-Free RoHS Exempt [PDF](https://web.calce.umd.edu/lead-free/SMTAExemptMay8.pdf)
 - [Five essential tools for electronics lab safety](https://www.arrow.com/en/research-and-events/articles/five-essential-safety-products-for-every-electronics-lab)
+- [Workbench Essentials When Starting Arduino! - Beginner Guide](https://www.youtube.com/watch?v=kWFXAqv2ZKw)
 - Parents and Teachers On Safety Transparency
 	- As a warning, such laboratories at home or at school may catch fire.
 		- Recommended Student, Parent and Teacher Signed Agreement
