@@ -79,10 +79,10 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 ## Programming Language
 
 - The procedural **C** prograomming language is used by beginners and then move to object-oriented programming (OOP), the **C++** programming language. 
-- Programming: Principles and Practice Using C++, 2nd Edition - [(Pearson - Learning. For life.)](https://www.pearson.com/us/higher-education/program/Stroustrup--Programming-Principles-and-Practice-Using-C-2nd-Edition/PGM270453.html)
+- Programming: Principles and Practice Using C++, 3rd. Ed. - [(Pearson - Learning. For life.)](https://www.pearson.com/en-us/subject-catalog/p/programmingprinciples-and-practices-using-c/P200000012061/9780138308681)
 	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
-	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
-	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
+	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP3.
+	- [Support for PPP3](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
    		- To download the code examples from "Programming: Principles and Practice Using C++, 3rd Edition" by Bjarne Stroustrup, it is recommended to register your book on the publisher's website or the author's official website if available. This often provides access to supplemental materials, including code downloads, errata, and updates.
 		- Try Benjamin Wuethrich Github account for the PPP 1st. Ed. code [stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp)
 - International Organization for Standardization (ISO) & Resources - [source](https://isocpp.org/std/the-standard)
