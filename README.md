@@ -83,6 +83,8 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 	- [Author:](https://www.stroustrup.com/index.html) Bjarne Stroustrup's homepage.
 	- [Source:](https://www.stroustrup.com/programming.html) More information on his book, PPP2.
 	- [Support for PPP2](https://www.stroustrup.com/programming_support.html) This includes the source code for the book.
+   		- To download the code examples from "Programming: Principles and Practice Using C++, 3rd Edition" by Bjarne Stroustrup, it is recommended to register your book on the publisher's website or the author's official website if available. This often provides access to supplemental materials, including code downloads, errata, and updates.
+		- Try Benjamin Wuethrich Github account for the PPP 1st. Ed. code [stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp)
 - International Organization for Standardization (ISO) & Resources - [source](https://isocpp.org/std/the-standard)
 	- ISO [Get Started](https://isocpp.org/get-started)
 - C++ Reference - [source](https://en.cppreference.com/w/)
