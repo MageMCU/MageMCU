@@ -205,6 +205,6 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - The MageMCU Github account is actively hacking away on **experimental code** for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author...
 	- Jesse Carpenter doing business as Carpenter Software - Email: carpenter.software.jc@gmail.com
-- Please follow the ***Disclaimers*** and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
+- Please follow the [***Disclaimers***](https://github.com/MageMCU/Carpenter-Software-Disclaimer/blob/main/README.md) and ***Terms*** in each of the repositories including the Disclaimers and Terms by Github.
 - MageMCU repository revised 20250831
 
