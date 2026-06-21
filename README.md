@@ -197,13 +197,13 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 - How beginners import a Unity Asset Package (.unitypackage):
 
-  	* Download the `.unitypackage` file to your computer.
-	* Open your target Unity project in Unity Editor.
-	* In the top menu, click **Assets > Import Package > Custom Package...**
-  	* Select the downloaded `.unitypackage` file.
-  	* In the import window, keep items checked (or uncheck anything you do not want).
-  	* Click **Import** and wait for Unity to finish.
-  	* Find imported files in the **Project** window (usually under `Assets/...`) and open any included sample scene or prefab.
+  	1. Download the `.unitypackage` file to your computer.
+	2. Open your target Unity project in Unity Editor.
+	3. In the top menu, click **Assets > Import Package > Custom Package...**
+  	4. Select the downloaded `.unitypackage` file.
+  	5. In the import window, keep items checked (or uncheck anything you do not want).
+  	6. Click **Import** and wait for Unity to finish.
+  	7. Find imported files in the **Project** window (usually under `Assets/...`) and open any included sample scene or prefab.
 
 ## Tentative Disclaimer
 
