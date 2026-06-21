@@ -194,9 +194,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
 
 - Full Unity Projects are often too large for practical GitHub use because they include many generated/cache files and binary assets that quickly bloat repository size (GitHub also enforces file and repo size limits). Unity Asset Packages (.unitypackage) are much smaller and more compact because they contain only the selected assets/scripts needed for sharing.
-
-- How beginners import a Unity Asset Package (.unitypackage):
-
+	- How beginners import a Unity Asset Package (.unitypackage):
 1. Download the `.unitypackage` file to your computer.
 2. Open your target Unity project in Unity Editor.
 3. In the top menu, click **Assets > Import Package > Custom Package...**
