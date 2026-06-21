@@ -190,7 +190,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
     3. Unity-Joystick-GUI
     4. Robot-6
 
-- The projects above have been updates to use Unity 6.3 LTS. There is math in Robot 6 project but you can always add more to study.
+- The projects above have been updated to use Unity 6.3 LTS. There are code files (math) in the scripts folder in Robot 6 project but you can always add more to study. I encourage you to experiment.
 - I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers Mobile Robot Kinematics.
        
 ## BUG FIXES
