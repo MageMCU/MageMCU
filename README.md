@@ -193,6 +193,18 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - The projects above have been updated to use Unity 6.3 LTS. Can be used by teachers to instruct. There are code files (math) in the scripts folder in Robot 6 project but you can always add more to study. I encourage parents, students, and even the lone-wolf developer to experiment. 
 - I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
 
+- Full Unity Projects are often too large for practical GitHub use because they include many generated/cache files and binary assets that quickly bloat repository size (GitHub also enforces file and repo size limits). Unity Asset Packages (.unitypackage) are much smaller and more compact because they contain only the selected assets/scripts needed for sharing.
+
+	- How beginners import a Unity Asset Package (.unitypackage):
+
+		1. Download the .unitypackage file to your computer.
+		2. Open your target Unity project in Unity Editor.
+		3. In the top menu, click Assets > Import Package > Custom Package...
+		4. Select the downloaded .unitypackage file.
+		5. In the import window, keep items checked (or uncheck anything you do not want).
+		6. Click Import and wait for Unity to finish.
+	7. Find imported files in the Project window (usually under Assets/...) and open any included sample scene or prefab.
+
 ## Tentative Disclaimer
 
 - The MageMCU Github account is actively hacking away on **experimental code** for the Arduino Uno Rev3. This includes testing and updating the software. Keep it simple.
