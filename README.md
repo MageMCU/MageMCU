@@ -191,25 +191,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
     4. Robot-6
 
 - The projects above have been updated to use Unity 6.3 LTS. Can be used by teachers to instruct. There are code files (math) in the scripts folder in Robot 6 project but you can always add more to study. I encourage parents, students, and even the lone-wolf developer to experiment. 
-- I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers Mobile Robot Kinematics.
-       
-## BUG FIXES
-
-- In the Joystick.h file, the algorithm uses abs() function but it uses the (int) integer type instead of a float...
-	- Has yet to be incorporated into the older repositories...
-   	- I caught this while coding - Wireless Communication - nRF24L01
-   	- As of 20240813, the code was added to MiscMath.h. See all header revisions in the include folder in both the *Wireless Communication* and the *Joystick Uno L298N* repositories.
-```
-   template <typename T>
-    T absT(T val)
-    {
-        T zero = (T)0;
-        if (val < zero)
-            val *= (T)-1;
-        return val;
-    }
-```
-- The Joystick Uno L298N repository has been updated with this fix. Other issues including expanding the L298N Bits() function from eight (8) to sixteen (16) combinations which finishes with the Motor Movement Checklist (MMC). The article ***1009 - L298N Supplemental*** has been updated with more informtion in how to use the L298N Bits() function along with the MMC.
+- I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
 
 ## Tentative Disclaimer
 
@@ -217,5 +199,5 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - This page is meant for the author and belays with the author. If anyone disagrees with its content, please contact the author, Jesse Carpenter at [Carpenter Software](https://carpentersoftware.com/pages/legals/contact/contact.html)
 - Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
 - To use any **MageMCU** repository at Github, agree to the following: [***Disclaimer***](https://github.com/MageMCU/Carpenter-Software-Disclaimer/blob/main/README.md), [***Github EULA***](https://desktop.github.com/eula/), and [***Github Terms***](https://docs.github.com/en/site-policy/github-terms) applied to each of the repositories.
-- MageMCU repository revised 20260612
+- MageMCU repository revised 20260621 (Happy Father's Day)
 
