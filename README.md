@@ -182,11 +182,16 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 
 ## Robot Simulations
 
-- There are four Unity Projects
+- The Unity 3D version used it the Unity 6.3 LTS. Unity Personal is for individuals and small organizations with less than $200K USD of revenue and funds raised in the last 12 months. [website](https://unity.com/products/unity-personal)
+
+- There are four Unity Projects (study in the order listed)
 	1. GameObject-Actions-by-a-Non-Monobehaviour-Class
     2. Unity-Camera-Overlay
     3. Unity-Joystick-GUI
     4. Robot-6
+
+- The projects above have been updates to use Unity 6.3 LTS. There is some math in Robot 6 project but you can always add more to study.
+- I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers Mobile Robot Kinematics.
        
 ## BUG FIXES
 
