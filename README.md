@@ -180,7 +180,6 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 			- Sign and Date
 	- The motivation behind this type of an agreement, there is not enough all-around laboratories in our public schools for vocational readiness. Let's get America back to work.
 
-
 ## Robot Simulations
 
 - The Unity 3D version used is Unity 6.3 LTS. Unity Personal is for individuals and small organizations with less than $200K USD of revenue and funds raised in the last 12 months. [Unity Personal](https://unity.com/products/unity-personal)
@@ -190,7 +189,7 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 	3. Unity Joystick Robot Simulation *(Unity Asset Store — coming soon)*
 - The projects above have been updated to use Unity 6.3 LTS. Can be used by teachers to instruct. There are code files (math) in the scripts folder in the Robot 6 project but you can always add more to study. I encourage parents, students, and even the lone-wolf developer to experiment.
 - I use Unity to study the math on robots, for example Kinematics, as covered in texts like **Autonomous Mobile Robots** by *Siegwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
-
+- Purchasing the Unity Joystick Robot Simulation asset on the Unity Asset Store directly supports the ongoing open-source work here at MageMCU and at [Carpenter Software](https://carpentersoftware.com). Every purchase helps keep the repositories active, the documentation maintained, and new projects moving forward.
 
 ## Tentative Disclaimer
 
