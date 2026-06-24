@@ -180,18 +180,17 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 			- Sign and Date
 	- The motivation behind this type of an agreement, there is not enough all-around laboratories in our public schools for vocational readiness. Let's get America back to work.
 
+
 ## Robot Simulations
 
-- The Unity 3D version used is the Unity 6.3 LTS. Unity Personal is for individuals and small organizations with less than $200K USD of revenue and funds raised in the last 12 months. [website](https://unity.com/products/unity-personal)
-
-- There are four Unity Projects (study in the order listed from beginner to advanced)
+- The Unity 3D version used is Unity 6.3 LTS. Unity Personal is for individuals and small organizations with less than $200K USD of revenue and funds raised in the last 12 months. [Unity Personal](https://unity.com/products/unity-personal)
+- There are three Unity projects (study in the order listed from beginner to advanced):
 	1. GameObject-Actions-by-a-Non-Monobehaviour-Class
-    2. Unity-Camera-Overlay
-    3. Unity-Joystick-GUI
-    4. Robot-6
+	2. Unity-Camera-Overlay
+	3. Unity Joystick Robot Simulation *(Unity Asset Store — coming soon)*
+- The projects above have been updated to use Unity 6.3 LTS. Can be used by teachers to instruct. There are code files (math) in the scripts folder in the Robot 6 project but you can always add more to study. I encourage parents, students, and even the lone-wolf developer to experiment.
+- I use Unity to study the math on robots, for example Kinematics, as covered in texts like **Autonomous Mobile Robots** by *Siegwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
 
-- The projects above have been updated to use Unity 6.3 LTS. Can be used by teachers to instruct. There are code files (math) in the scripts folder in Robot 6 project but you can always add more to study. I encourage parents, students, and even the lone-wolf developer to experiment. 
-- I use Unity to study the math on robots for example Kinematics and the Kinematics in the texts like **Automous Mobile Robots** by *Seigwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
 
 - Full Unity Projects are often too large for practical GitHub use because they include many generated/cache files and binary assets that quickly bloat repository size (GitHub also enforces file and repo size limits). Unity Asset Packages (.unitypackage) are much smaller and more compact because they contain only the selected assets/scripts needed for sharing.
 	- How beginners import a Unity Asset Package (.unitypackage):
