@@ -1,4 +1,4 @@
-# About MageMCU
+## About MageMCU
 
 <p align="center">
 	<strong>--- Blinking LED ---</strong>
@@ -183,13 +183,17 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 ## Robot Simulations
 
 - The Unity 3D version used is Unity 6.3 LTS. Unity Personal is for individuals and small organizations with less than $200K USD of revenue and funds raised in the last 12 months. [Unity Personal](https://unity.com/products/unity-personal)
-- There are three Unity projects (study in the order listed from beginner to advanced):
+- There are four Unity projects (study in the order listed from beginner to advanced):
 	1. GameObject-Actions-by-a-Non-Monobehaviour-Class
 	2. Unity-Camera-Overlay
 	3. Unity Joystick Robot Simulation *(Unity Asset Store — coming soon)*
+	4. Robot-8 — advanced study applying Chapter 3 of *Autonomous Mobile Robots* in Unity
 - The projects above have been updated to use Unity 6.3 LTS. Can be used by teachers to instruct. There are code files (math) in the scripts folder in the Robot 6 project but you can always add more to study. I encourage parents, students, and even the lone-wolf developer to experiment.
 - I use Unity to study the math on robots, for example Kinematics, as covered in texts like **Autonomous Mobile Robots** by *Siegwart, Nourbakhsh & Scaramuzza*. Chapter 3 covers **Mobile Robot Kinematics**.
 - Purchasing the Unity Joystick Robot Simulation asset on the Unity Asset Store directly supports the ongoing open-source work here at MageMCU and at [Carpenter Software](https://carpentersoftware.com). Every purchase helps keep the repositories active, the documentation maintained, and new projects moving forward.
+
+**Hardware Counterpart — Joystick Uno L298N (JUL)**
+The Unity simulation work directly motivated a review and update of the [Joystick Uno L298N (JUL)](https://github.com/MageMCU/Joystick-Uno-L298N) repository — the physical Arduino Uno hardware counterpart to the robot simulation. The JUL repository has been updated to include the full algorithm study as a subfolder, along with reader instructions for testing the revised algorithms alongside the original `Joystick.h` without replacing it. If you are interested in seeing how the simulation joystick algorithm translates to real hardware with a physical joystick and L298N motor driver, the JUL repository is worth a look.
 
 ## Tentative Disclaimer
 
@@ -198,4 +202,3 @@ The Atmega16U2 chip on the Arduino Uno board acts as a bridge between the comput
 - Any products, services, and/or mediums like youtube videos described here on the ***MageMCU Github Account*** are considered unintentional and purely coincidental promotions and thereby to make clear any idea of such promotions should be interpreted solely as intended for the use for educational purposes only...
 - To use any **MageMCU** repository at Github, agree to the following: [***Disclaimer***](https://github.com/MageMCU/Carpenter-Software-Disclaimer/blob/main/README.md), [***Github EULA***](https://desktop.github.com/eula/), and [***Github Terms***](https://docs.github.com/en/site-policy/github-terms) applied to each of the repositories.
 - MageMCU repository revised 20260621 (Happy Father's Day)
-
